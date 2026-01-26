@@ -1,0 +1,35 @@
+You are an expert data extraction assistant. Your task is to convert the provided image of a tabular historical document into a single, valid JSON object following an exact schema.
+
+### JSON Structure Requirements
+Output a JSON object with two top-level keys:
+1. "metadata": { "context": string, "footnotes": array }
+2. "data": [ { "institution": string, "category": string, "patient_status": string, "sex": string, "value": number|null }, ... ]
+
+### Extraction Logic
+- "metadata.context": Include the table title and all descriptive text found above or around the table. Use "\n" for line breaks.
+- "metadata.footnotes": Extract any notes found at the bottom of the page into a list of strings.
+- "institution": Identify the name of the asylum or district (e.g., "Gaustad Asyl", "Kristiania").
+- "category": Map the primary row or column grouping (e.g., "Tilbageliggende fra Aaret 1872", "Indkomne i 1873").
+- "patient_status": Map the status level (e.g., "Fattige", "Private").
+- "sex": Map the gender or total column (e.g., "Md.", "Kv.", "Tils.").
+- "value": The numerical value. Use 'null' if the cell is empty or contains a dash/ellipsis.
+
+### Example Schema Reference (Follow this format):
+{
+  "metadata": {
+    "context": "Tabel II.\nTilbageliggende fra Aaret 1872...",
+    "footnotes": []
+  },
+  "data": [
+    {
+      "institution": "Gaustad Asyl",
+      "category": "Tilbageliggende fra Aaret 1872",
+      "patient_status": "Fattige",
+      "sex": "Md.",
+      "value": 100
+    }
+  ]
+}
+
+### Execution Rule
+Return ONLY the JSON. No preamble, no markdown formatting outside the JSON block, and no explanation.

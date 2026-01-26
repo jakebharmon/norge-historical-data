@@ -5,13 +5,8 @@ library(fs)
 library(jsonlite)
 library(arrow)
 
-# --- CONFIGURATION ---
-json_folder    <- "02_json"      
-parquet_folder <- "03_parquet"   
-ledger_file    <- "corrections_ledger.csv"
-
 # Ensure output directory exists
-dir_create(parquet_folder)
+dir_create("03_parquet")
 
 # --- UI ---
 ui <- fluidPage(
@@ -57,7 +52,9 @@ ui <- fluidPage(
                           selectInput("bulk_col", "Select Column to Clean:", choices = NULL)
                    ),
                    column(8,
-                          p("Instructions: Edit the 'New_Value' column below to fix typos across the entire file. Click 'Apply' to update the main table."),
+                          p("Instructions: Edit the 'New_Value' column below to 
+                            fix typos across the entire file. Click 'Apply' to 
+                            update the main table."),
                           actionButton("apply_bulk_btn", "Apply Global Changes", class = "btn-primary")
                    )
                  ),
@@ -78,8 +75,9 @@ server <- function(input, output, session) {
   values <- reactiveValues(raw_data = NULL, msg = "Ready")
   
   # --- 1. Initialize File List ---
+  # Pull from json folder
   observe({
-    files <- dir_ls(json_folder, glob = "*.json")
+    files <- dir_ls("02_json", glob = "*.json")
     file_names <- path_file(files)
     updateSelectInput(session, "file_select", choices = file_names)
   })
@@ -87,13 +85,14 @@ server <- function(input, output, session) {
   # --- 2. Load and Clean JSON ---
   observeEvent(input$file_select, {
     req(input$file_select)
-    file_path <- path(json_folder, input$file_select)
+    file_path <- path("02_json", input$file_select)
     values$msg <- paste("Loading", input$file_select, "...")
     
     tryCatch({
       raw_text <- read_file(file_path)
       parsed_data <- fromJSON(raw_text, flatten = TRUE)
       
+      # Create tibble object
       current_df <- NULL
       if (is.data.frame(parsed_data)) {
         current_df <- as_tibble(parsed_data)
@@ -101,6 +100,7 @@ server <- function(input, output, session) {
         current_df <- map_dfr(parsed_data, as_tibble)
       }
       
+      #  Remove any metadata
       if (!is.null(current_df)) {
         clean_df <- current_df %>%
           unnest(cols = everything(), names_sep = "_") %>%
@@ -139,6 +139,7 @@ server <- function(input, output, session) {
     tryCatch({
       wide_df <- values$raw_data %>%
         mutate(across(all_of(input$header_cols), ~replace_na(., "Unknown"))) %>%
+        # Stacks all column headers together to deal with merged cells in original
         unite("col_header", all_of(input$header_cols), sep = " | ") %>%
         select(all_of(input$row_col), col_header, value) %>%
         pivot_wider(
@@ -239,7 +240,7 @@ server <- function(input, output, session) {
           new_value = new_val,
           reviewer = Sys.getenv("USER")
         )
-        write_csv(entry, ledger_file, append = file_exists(ledger_file))
+        write_csv(entry, "corrections_ledger.csv", append = file_exists("corrections_ledger.csv"))
       }
       
       # 4. Update the reactive value (triggers UI refresh)
@@ -257,7 +258,7 @@ server <- function(input, output, session) {
     # Note: We save the 'wide view' (the visual table) to Parquet
     final_df <- hot_to_r(input$hot_table)
     out_name <- path_file(input$file_select) %>% path_ext_set("parquet")
-    out_path <- path(parquet_folder, out_name)
+    out_path <- path("03_parquet", out_name)
     write_parquet(final_df, out_path)
     values$msg <- paste("Saved successfully to:", out_path)
   })
@@ -269,7 +270,7 @@ server <- function(input, output, session) {
       action = "Manual Review Completed",
       reviewer = Sys.getenv("USER")
     )
-    write_csv(entry, ledger_file, append = file_exists(ledger_file))
+    write_csv(entry, "corrections_ledger.csv", append = file_exists("corrections_ledger.csv"))
     values$msg <- "Review logged to ledger."
   })
   
