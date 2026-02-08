@@ -1,70 +1,45 @@
-You are an expert data extraction assistant. Your task is to convert the provided image of a tabular historical document into a single, valid JSON object following an exact schema. You must find and convert only the 'Indkomne' (or 'Innkomne') table, which may be on one page with another table, by itself on one page, or split across two pages.
+Task: Extract the structural coordinate map for a medical reporting table. You must dynamically identify rows and columns to account for year-over-year variations and capture footnote markers associated with specific data points.
 
-JSON Structure Requirements
+Data Target: Indkomne/Innkomne.
 
-Output a JSON object with two top-level keys:
+Extraction Rules:
 
-"metadata": { "context": string, "footnotes": array }
+Dynamic Headers: Identify all Institutions (Columns) found in the header row.
 
-"data": [ { "institution": string, "category": string, "patient_status": string, "sex": string, "value": number|null }, ... ]
+Dynamic Rows: Identify all Patient Statuses/Diagnoses (Rows) in the first column.
 
-Extraction Logic
+Hierarchical Rows: If a row has a parent category and sub-categories (e.g., "Idiotismus" followed by "congenitus"), format as Parent - Child.
 
-"metadata.context": Include the table title and all descriptive text found above or around the table. Use "\n" for line breaks.
+Value Handling: Set every value to null.
 
-"metadata.footnotes": Extract any notes found at the bottom of the page into a list of strings.
+Footnote Detection: If a cell contains a footnote marker (e.g., a small number, asterisk, or letter next to the value), extract it into the footnote_marker field. If none exists, set it to null.
 
-"institution": Identify the name of the asylum or district. Note: In newer tables, institutions are listed in the first column as rows.
+Categorization: Use the title of the table for the category field.
 
-"category": Map the primary grouping (e.g., "Indkomne i 1872").
+Sex Sub-columns: Every institution must be mapped against "Md.", "Kv.", and "Tils.".
 
-"patient_status": Map the specific diagnosis or status (e.g., "Melancholia", "Schizophrenia").
+Output Schema: Generate a JSON object with this exact structure:
 
-"sex": Map the gender or total column (e.g., "Md./M.", "Kv./K.", "Tils.").
-
-"value" (Strict Null Policy):
-
-You MUST extract a value for every intersection of row and column.
-
-If a cell contains a dash ("-"), a dot/ellipsis (".", ".."), or is physically empty, you MUST return "value": null.
-
-Do not skip rows or columns.
-
-Only return a number if an actual digit is present.
-
-Matrix Handling Rules
-
-Type A (Wide): If institutions are headers (columns) and diagnoses are rows, iterate through every institution for every diagnosis row.
-
-Type B (Tall): If institutions are the first column (rows) and diagnoses are headers (columns), iterate through every diagnosis for every institution row.
-
-Multi-page: If the table headers are on one page and the data continues onto another, merge them into a single continuous JSON array.
-
-### Example Schema Reference (Follow this format):
 {
   "metadata": {
-    "context": "Tabel V.Indkomne i 1872...",
-    "footnotes": ["1) Se anm. til tab. I."]
+    "title": "Tabel V. Indkomne i 1872",
+    "year": 1872
   },
-  "data": [
+  "dimensions": {
+    "institutions": ["List all unique institutions found"],
+    "diagnoses": ["List all unique diagnosis rows found, preserving hierarchy"],
+    "sex": ["Md.", "Kv.", "Tils."]
+  },
+  "data_skeleton": [
     {
-      "institution": "Alle asyler",
-      "category": "Indkommet i 1915",
-      "patient_status": "Tilsammen",
-      "sex": "Tils.",
-      "value": 1399,
-      "footnote_marker": "1)"
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkommet i 1915",
-      "patient_status": "Melancholia",
-      "sex": "md.",
-      "value": null,
-      "footnote_marker": null
+      "institution": "string",
+      "category": "Indkomne i 1872",
+      "patient_status": "string",
+      "sex": "string",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": "string or null"
+      }
     }
   ]
 }
-
-###Execution Rule 
-Return the valid JSON object wrapped inside a markdown code block (```json). Do not include any conversational text, preamble, or explanation outside of the code block.

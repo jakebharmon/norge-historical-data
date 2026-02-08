@@ -1,0 +1,2318 @@
+{
+  "metadata": {
+    "context": "C. No. 5.\nIndkomne i 1872.\nTabel V.",
+    "footnotes": []
+  },
+  "data": [
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "value": 39
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "value": 44
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Tils.",
+      "value": 83
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "value": 5
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "value": 13
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Tils.",
+      "value": 18
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "value": 4
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "value": 11
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Tils.",
+      "value": 15
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "value": 3
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "value": 6
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Tils.",
+      "value": 9
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "value": 3
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "value": 3
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Tils.",
+      "value": 6
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "value": 2
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "value": 5
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Tils.",
+      "value": 7
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "value": 4
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "value": 4
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Tils.",
+      "value": 8
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "value": 13
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "value": 10
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Tils.",
+      "value": 23
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "value": 17
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "value": 19
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Tils.",
+      "value": 36
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "value": 90
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "value": 115
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia",
+      "sex": "Tils.",
+      "value": 205
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Md.",
+      "value": 8
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Tils.",
+      "value": 8
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Kv.",
+      "value": 2
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Tils.",
+      "value": 2
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Kv.",
+      "value": 2
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Tils.",
+      "value": 2
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Md.",
+      "value": 1
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Tils.",
+      "value": 1
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Md.",
+      "value": 9
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Kv.",
+      "value": 4
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Melancholia cum stupore",
+      "sex": "Tils.",
+      "value": 13
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "value": 38
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "value": 31
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Tils.",
+      "value": 69
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "value": 6
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "value": 2
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Tils.",
+      "value": 8
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "value": 8
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Tils.",
+      "value": 8
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "value": 6
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "value": 2
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Tils.",
+      "value": 8
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "value": 3
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Tils.",
+      "value": 3
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "value": 2
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Tils.",
+      "value": 2
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "value": 5
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Tils.",
+      "value": 5
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "value": 11
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "value": 4
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Tils.",
+      "value": 15
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "value": 17
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "value": 12
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Tils.",
+      "value": 29
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "value": 88
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "value": 59
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Mania",
+      "sex": "Tils.",
+      "value": 147
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "value": 1
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "value": 1
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Tils.",
+      "value": 2
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "value": 3
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "value": 5
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Tils.",
+      "value": 8
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "value": 4
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "value": 6
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Monomania",
+      "sex": "Tils.",
+      "value": 10
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Md.",
+      "value": 7
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Kv.",
+      "value": 3
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Tils.",
+      "value": 10
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Md.",
+      "value": 2
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Kv.",
+      "value": 2
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Tils.",
+      "value": 4
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Md.",
+      "value": 1
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Tils.",
+      "value": 1
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Md.",
+      "value": 2
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Kv.",
+      "value": 2
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Tils.",
+      "value": 4
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Md.",
+      "value": 12
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Kv.",
+      "value": 7
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Stupiditas",
+      "sex": "Tils.",
+      "value": 19
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "value": 1
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Tils.",
+      "value": 1
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "value": 1
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Tils.",
+      "value": 1
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "value": 4
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Tils.",
+      "value": 4
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "value": 6
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Delirium tremens",
+      "sex": "Tils.",
+      "value": 6
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "value": 39
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "value": 14
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Tils.",
+      "value": 53
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "value": 2
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "value": 3
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Tils.",
+      "value": 5
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "value": 5
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "value": 5
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Tils.",
+      "value": 10
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "value": 2
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Tils.",
+      "value": 2
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "value": 1
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "value": 1
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Tils.",
+      "value": 2
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "value": 2
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Tils.",
+      "value": 2
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "value": 1
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Tils.",
+      "value": 1
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "value": 3
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Tils.",
+      "value": 3
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "value": 53
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "value": 25
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Dementia",
+      "sex": "Tils.",
+      "value": 78
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Md.",
+      "value": 4
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Tils.",
+      "value": 4
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Md.",
+      "value": 2
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Kv.",
+      "value": 2
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Tils.",
+      "value": 4
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Kv.",
+      "value": 2
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Tils.",
+      "value": 2
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Md.",
+      "value": 3
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Kv.",
+      "value": 1
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Tils.",
+      "value": 4
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Md.",
+      "value": 1
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Kv.",
+      "value": 3
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Tils.",
+      "value": 4
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Md.",
+      "value": 2
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Tils.",
+      "value": 2
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Md.",
+      "value": 12
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Kv.",
+      "value": 8
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Idiotismus congenitus",
+      "sex": "Tils.",
+      "value": 20
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "value": 3
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "value": 3
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Tils.",
+      "value": 6
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "value": 2
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Tils.",
+      "value": 2
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "value": 3
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "value": 2
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Tils.",
+      "value": 5
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "value": 6
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "value": 7
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Epilepsia",
+      "sex": "Tils.",
+      "value": 13
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "value": 2
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Tils.",
+      "value": 2
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "value": 2
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Tils.",
+      "value": 2
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "value": null
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Tils.",
+      "value": null
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "value": 2
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "value": 2
+    },
+    {
+      "institution": "Tilsammen",
+      "category": "Indkomne i 1872",
+      "patient_status": "Paralysis generalis",
+      "sex": "Tils.",
+      "value": 4
+    }
+  ]
+}

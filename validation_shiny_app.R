@@ -1,70 +1,76 @@
 library(shiny)
-library(rhandsontable)
 library(tidyverse)
-library(fs)
+library(rhandsontable)
 library(jsonlite)
-library(arrow)
 
-# Ensure output directory exists
-dir_create("03_parquet")
+# --- SETUP: DIRECTORY CREATION ---
+# Ensure '03_json' exists in the current project directory
+if (!dir.exists("03_json")) {
+  dir.create("03_json")
+}
 
 # --- UI ---
 ui <- fluidPage(
-  titlePanel("JSON to Parquet Validator"),
+  theme = NULL, 
+  titlePanel("JSON Editor: JSON-Only Pathway"),
   
   sidebarLayout(
     sidebarPanel(
-      width = 3,
-      h4("1. Select Source File"),
-      selectInput("file_select", NULL, choices = NULL),
+      width = 3, 
+      h4("1. Import"),
+      # [STRICT] Only accepts .json
+      fileInput("upload_file", "Upload File (.json)", accept = ".json"),
       
-      hr(),
-      h4("2. Configure View"),
-      selectInput("row_col", "Row Label:", choices = NULL),
-      selectInput("header_cols", "Header Columns:", choices = NULL, multiple = TRUE),
-      
-      hr(),
-      h4("3. Actions"),
-      actionButton("save_parquet_btn", "Save as Parquet", class = "btn-success"),
-      p("Saves the current table state to '03_parquet/'", style = "font-size: 0.8em; color: #666;"),
       br(),
-      actionButton("log_edit_btn", "Log Entry to Ledger", class = "btn-warning"),
-      p("Records specific cell changes to CSV audit trail.", style = "font-size: 0.8em; color: #666;")
+      h4("2. Export"),
+      # Save directly to the new project folder
+      actionButton("save_server", "Save file", icon = icon("save"), class = "btn-success btn-block"),
+      
+      hr(),
+      helpText("Tip: Upload the 'Dimensions JSON' from the AI prompt to start a new grid, or a previously saved JSON to resume editing.")
     ),
     
     mainPanel(
       width = 9,
-      
-      # --- TABS FOR DIFFERENT MODES ---
-      tabsetPanel(
-        
-        # TAB 1: The Standard Table Editor
-        tabPanel("Row-by-Row Editor", 
-                 br(),
-                 rHandsontableOutput("hot_table", height = "600px")
-        ),
-        
-        # TAB 2: The Global Bulk Editor
-        tabPanel("Global Cleaner (Bulk Edit)",
-                 br(),
-                 fluidRow(
-                   column(4, 
-                          selectInput("bulk_col", "Select Column to Clean:", choices = NULL)
-                   ),
-                   column(8,
-                          p("Instructions: Edit the 'New_Value' column below to 
-                            fix typos across the entire file. Click 'Apply' to 
-                            update the main table."),
-                          actionButton("apply_bulk_btn", "Apply Global Changes", class = "btn-primary")
-                   )
-                 ),
-                 hr(),
-                 rHandsontableOutput("bulk_table", height = "500px")
-        )
-      ),
-      
-      hr(),
-      verbatimTextOutput("status_msg")
+      tabsetPanel(id = "main_tabs",
+                  
+                  # TAB 1: DATA
+                  tabPanel("1. Data Values", 
+                           br(),
+                           rHandsontableOutput("value_grid", height = "750px")
+                  ),
+                  
+                  # TAB 2: FOOTNOTES
+                  tabPanel("2. Footnotes", 
+                           br(),
+                           rHandsontableOutput("note_grid", height = "750px")
+                  ),
+                  
+                  # TAB 3: RENAMER
+                  tabPanel("3. Global Dimensions",
+                           br(),
+                           fluidRow(
+                             column(6, 
+                                    div(class = "panel panel-default",
+                                        div(class = "panel-heading", strong("Institutions")),
+                                        div(class = "panel-body", rHandsontableOutput("edit_institutions"))
+                                    )
+                             ),
+                             column(6, 
+                                    div(class = "panel panel-default",
+                                        div(class = "panel-heading", strong("Diagnoses")),
+                                        div(class = "panel-body", rHandsontableOutput("edit_diagnoses"))
+                                    )
+                             )
+                           )
+                  ),
+                  
+                  # TAB 4: PREVIEW
+                  tabPanel("4. JSON Preview", 
+                           br(),
+                           verbatimTextOutput("json_preview")
+                  )
+      )
     )
   )
 )
@@ -72,209 +78,268 @@ ui <- fluidPage(
 # --- SERVER ---
 server <- function(input, output, session) {
   
-  values <- reactiveValues(raw_data = NULL, msg = "Ready")
+  # --- 1. STATE ---
+  values <- reactiveValues(
+    metadata = list(),
+    df = NULL,          
+    id_map = NULL,
+    filename = "output"
+  )
   
-  # --- 1. Initialize File List ---
-  # Pull from json folder
-  observe({
-    files <- dir_ls("02_json", glob = "*.json")
-    file_names <- path_file(files)
-    updateSelectInput(session, "file_select", choices = file_names)
-  })
-  
-  # --- 2. Load and Clean JSON ---
-  observeEvent(input$file_select, {
-    req(input$file_select)
-    file_path <- path("02_json", input$file_select)
-    values$msg <- paste("Loading", input$file_select, "...")
+  # --- 2. LOAD JSON FILES ---
+  observeEvent(input$upload_file, {
+    req(input$upload_file)
+    
+    file_path <- input$upload_file$datapath
+    ext <- tools::file_ext(file_path)
+    values$filename <- tools::file_path_sans_ext(input$upload_file$name)
+    
+    if (ext != "json") {
+      showNotification("Error: Invalid file type. Please upload a .json file.", type = "error")
+      return()
+    }
     
     tryCatch({
-      raw_text <- read_file(file_path)
-      parsed_data <- fromJSON(raw_text, flatten = TRUE)
+      in_json <- fromJSON(file_path, simplifyVector = FALSE)
       
-      # Create tibble object
-      current_df <- NULL
-      if (is.data.frame(parsed_data)) {
-        current_df <- as_tibble(parsed_data)
-      } else if (is.list(parsed_data)) {
-        current_df <- map_dfr(parsed_data, as_tibble)
-      }
-      
-      #  Remove any metadata
-      if (!is.null(current_df)) {
-        clean_df <- current_df %>%
-          unnest(cols = everything(), names_sep = "_") %>%
-          rename_with(~ str_remove(., "metadata_"), starts_with("metadata_")) %>%
-          rename_with(~ str_remove(., "data_"), starts_with("data_")) %>%
-          mutate(across(everything(), as.character))
+      # PATH A: DIMENSIONS JSON (Auto-Expand)
+      # Detects if it has 'institutions' but NO 'data_skeleton'
+      if (is.null(in_json$data_skeleton) && !is.null(in_json$institutions)) {
+        values$metadata <- list(title = in_json$title, year = in_json$year)
         
-        values$raw_data <- clean_df
-        values$msg <- "File loaded and cleaned."
+        full_grid <- expand.grid(
+          institution = unlist(in_json$institutions),
+          patient_status = unlist(in_json$diagnoses),
+          sex = unlist(in_json$sex),
+          stringsAsFactors = FALSE
+        )
+        
+        flat_df <- full_grid %>%
+          mutate(
+            category = in_json$title,
+            value = NA_real_,
+            footnote_marker = "",
+            id = row_number()
+          )
+        
+        values$df <- flat_df
+        update_maps()
+        showNotification("Dimensions JSON expanded successfully!", type = "message")
+        
+        # PATH B: FULL PROCESSED JSON (Resume Work)
+      } else {
+        values$metadata <- in_json$metadata
+        
+        flat_df <- map_dfr(in_json$data_skeleton, function(x) {
+          tibble(
+            patient_status = x$patient_status,
+            institution = x$institution,
+            sex = x$sex,
+            category = x$category, 
+            value = if(is.null(x$cell_data$value)) NA_real_ else as.numeric(x$cell_data$value),
+            footnote_marker = if(is.null(x$cell_data$footnote_marker)) "" else x$cell_data$footnote_marker
+          )
+        }) %>% mutate(id = row_number())
+        
+        values$df <- flat_df
+        update_maps()
+        showNotification("Full JSON loaded successfully!", type = "message")
       }
       
-    }, error = function(e) {
-      values$msg <- paste("Error loading JSON:", e$message)
-      values$raw_data <- NULL
-    })
+    }, error = function(e) showNotification(paste("Error:", e$message), type = "error"))
   })
   
-  # --- 3. Dynamic Dropdowns ---
-  observeEvent(values$raw_data, {
-    req(values$raw_data)
-    cols <- names(values$raw_data)
-    valid_cols <- setdiff(cols, c("value", "note_symbol"))
+  # --- HELPER: MAP UPDATE ---
+  update_maps <- function() {
+    req(values$df)
+    if(!all(c("institution", "sex") %in% names(values$df))) return()
     
-    # Update Standard View Dropdowns
-    updateSelectInput(session, "row_col", choices = valid_cols, selected = valid_cols[1])
-    default_headers <- setdiff(valid_cols, valid_cols[1])
-    updateSelectInput(session, "header_cols", choices = valid_cols, selected = default_headers)
-    
-    # Update Bulk Cleaner Dropdown
-    updateSelectInput(session, "bulk_col", choices = valid_cols, selected = valid_cols[1])
+    long <- values$df %>% mutate(col_key = paste(institution, sex, sep = " | "))
+    wid <- long %>% select(patient_status, col_key, id) %>% 
+      pivot_wider(names_from = col_key, values_from = id) %>% column_to_rownames("patient_status")
+    values$id_map <- as.matrix(wid)
+  }
+  
+  # --- 3. DATA MATRICES ---
+  get_val_matrix <- reactive({
+    req(values$df)
+    if(!all(c("institution", "sex") %in% names(values$df))) return(NULL)
+    long <- values$df %>% mutate(col_key = paste(institution, sex, sep = " | "))
+    mat <- long %>% select(patient_status, col_key, value) %>% 
+      pivot_wider(names_from = col_key, values_from = value) %>% column_to_rownames("patient_status")
+    as.data.frame(mat) %>% rownames_to_column("Diagnosis")
   })
   
-  # --- 4. Main View Logic (Row Editor) ---
-  wide_view_data <- reactive({
-    req(values$raw_data, input$row_col, input$header_cols)
-    tryCatch({
-      wide_df <- values$raw_data %>%
-        mutate(across(all_of(input$header_cols), ~replace_na(., "Unknown"))) %>%
-        # Stacks all column headers together to deal with merged cells in original
-        unite("col_header", all_of(input$header_cols), sep = " | ") %>%
-        select(all_of(input$row_col), col_header, value) %>%
-        pivot_wider(
-          names_from = col_header, 
-          values_from = value, 
-          values_fn = first, 
-          values_fill = ""
-        )
-      names(wide_df) <- make.unique(names(wide_df))
-      wide_df
-    }, error = function(e) { NULL })
+  get_note_matrix <- reactive({
+    req(values$df)
+    if(!all(c("institution", "sex") %in% names(values$df))) return(NULL)
+    long <- values$df %>% mutate(col_key = paste(institution, sex, sep = " | "))
+    mat <- long %>% select(patient_status, col_key, footnote_marker) %>% 
+      pivot_wider(names_from = col_key, values_from = footnote_marker) %>% column_to_rownames("patient_status")
+    as.data.frame(mat) %>% rownames_to_column("Diagnosis")
   })
   
-  output$hot_table <- renderRHandsontable({
-    df <- wide_view_data()
-    if(is.null(df)) return(NULL)
+  # --- 4. RENDER GRIDS ---
+  output$value_grid <- renderRHandsontable({
+    df <- get_val_matrix()
+    req(df)
+    hot <- rhandsontable(df, rowHeaders = TRUE, stretchH = "all") %>%
+      hot_col("Diagnosis", readOnly = TRUE) %>%
+      hot_cols(fixedColumnsLeft = 1) %>%
+      hot_table(highlightCol = TRUE, highlightRow = TRUE)
     
-    target_col <- input$row_col
-    custom_renderer <- paste0("
-       function (instance, td, row, col, prop, value, cellProperties) {
+    note_data <- values$df %>% filter(!is.na(footnote_marker) & footnote_marker != "")
+    if(nrow(note_data) > 0 && !is.null(values$id_map)) {
+      for(i in 1:nrow(note_data)) {
+        target_id <- note_data$id[i]
+        coords <- which(values$id_map == target_id, arr.ind = TRUE)
+        if(length(coords) > 0) {
+          hot <- hot %>% hot_cell(row = coords[1], col = coords[2] + 1, comment = note_data$footnote_marker[i])
+        }
+      }
+    }
+    hot
+  })
+  
+  output$note_grid <- renderRHandsontable({
+    df <- get_note_matrix()
+    req(df)
+    rhandsontable(df, rowHeaders = TRUE, stretchH = "all") %>%
+      hot_col("Diagnosis", readOnly = TRUE) %>%
+      hot_cols(fixedColumnsLeft = 1) %>%
+      hot_table(highlightCol = TRUE, highlightRow = TRUE) %>%
+      hot_cols(renderer = "
+        function (instance, td, row, col, prop, value, cellProperties) {
           Handsontable.renderers.TextRenderer.apply(this, arguments);
-          if (instance.colToProp(col) === '", target_col, "') {
-              td.style.background = '#eee';
-              td.style.fontWeight = 'bold';
+          if (value != null && value != '') {
+            td.style.background = '#fff3cd'; 
+            td.style.fontWeight = 'bold';
           }
-       }")
-    
-    rhandsontable(df, rowHeaders = NULL, height = 600, stretchH = "all") %>%
-      hot_context_menu(allowRowEdit = TRUE, allowColEdit = TRUE) %>% 
-      hot_col(col = input$row_col, readOnly = TRUE) %>% 
-      hot_cols(renderer = custom_renderer)
+        }")
   })
   
-  # --- 5. Global Cleaner Logic (Bulk Editor) ---
-  
-  # Generate unique values for the selected column
-  output$bulk_table <- renderRHandsontable({
-    req(values$raw_data, input$bulk_col)
-    
-    # Get distinct values
-    uniques <- unique(values$raw_data[[input$bulk_col]])
-    uniques <- uniques[!is.na(uniques)]
-    
-    # Create a mapping table: Original -> New
-    df_map <- data.frame(
-      Original_Value = uniques,
-      New_Value = uniques, # Default to same
-      stringsAsFactors = FALSE
-    ) %>% arrange(Original_Value)
-    
-    rhandsontable(df_map, rowHeaders = NULL, height = 500, stretchH = "all") %>%
-      hot_col("Original_Value", readOnly = TRUE, renderer = "
-         function (instance, td, row, col, prop, value, cellProperties) {
-            Handsontable.renderers.TextRenderer.apply(this, arguments);
-            td.style.background = '#eee';
-            td.style.color = '#666';
-         }") %>%
-      hot_col("New_Value", renderer = "
-         function (instance, td, row, col, prop, value, cellProperties) {
-            Handsontable.renderers.TextRenderer.apply(this, arguments);
-            if (value !== instance.getDataAtRowProp(row, 'Original_Value')) {
-               td.style.fontWeight = 'bold';
-               td.style.color = 'blue';
-            }
-         }")
-  })
-  
-  # Apply Bulk Changes
-  observeEvent(input$apply_bulk_btn, {
-    req(input$bulk_table, input$bulk_col)
-    
-    # 1. Get the mapping table from UI
-    corrections <- hot_to_r(input$bulk_table)
-    
-    # 2. Filter only changed rows
-    changes <- corrections %>% filter(Original_Value != New_Value)
-    
-    if(nrow(changes) > 0) {
-      # 3. Apply changes to raw_data
-      # We use match() to find positions and replace
-      current_col_values <- values$raw_data[[input$bulk_col]]
-      
-      # Loop through changes (simple and robust for moderate data sizes)
-      for(i in 1:nrow(changes)) {
-        old_val <- changes$Original_Value[i]
-        new_val <- changes$New_Value[i]
-        
-        # Replace in memory
-        current_col_values[current_col_values == old_val] <- new_val
-        
-        # Log to ledger
-        entry <- tibble(
-          timestamp = Sys.time(),
-          source_file = input$file_select,
-          action = "Global Bulk Edit",
-          column = input$bulk_col,
-          old_value = old_val,
-          new_value = new_val,
-          reviewer = Sys.getenv("USER")
-        )
-        write_csv(entry, "corrections_ledger.csv", append = file_exists("corrections_ledger.csv"))
+  # --- 5. HANDLE EDITS ---
+  observeEvent(input$value_grid$changes$changes, {
+    changes <- input$value_grid$changes$changes
+    req(changes, values$id_map)
+    for(ch in changes) {
+      r <- ch[[1]] + 1; c <- ch[[2]] + 1; new_val <- ch[[4]]
+      if(c == 1) next 
+      id <- values$id_map[r, c - 1]
+      if(!is.na(id)) {
+        val_clean <- if(is.na(new_val) || new_val == "") NA_real_ else as.numeric(new_val)
+        values$df$value[values$df$id == id] <- val_clean
       }
-      
-      # 4. Update the reactive value (triggers UI refresh)
-      values$raw_data[[input$bulk_col]] <- current_col_values
-      values$msg <- paste("Updated", nrow(changes), "values globally.")
-      
-    } else {
-      values$msg <- "No changes detected in Bulk Editor."
     }
   })
   
-  # --- 6. Save Actions ---
-  observeEvent(input$save_parquet_btn, {
-    req(input$hot_table)
-    # Note: We save the 'wide view' (the visual table) to Parquet
-    final_df <- hot_to_r(input$hot_table)
-    out_name <- path_file(input$file_select) %>% path_ext_set("parquet")
-    out_path <- path("03_parquet", out_name)
-    write_parquet(final_df, out_path)
-    values$msg <- paste("Saved successfully to:", out_path)
+  observeEvent(input$note_grid$changes$changes, {
+    changes <- input$note_grid$changes$changes
+    req(changes, values$id_map)
+    for(ch in changes) {
+      r <- ch[[1]] + 1; c <- ch[[2]] + 1; new_val <- ch[[4]]
+      if(c == 1) next 
+      id <- values$id_map[r, c - 1]
+      if(!is.na(id)) {
+        val_clean <- if(is.null(new_val) || new_val == "") "" else as.character(new_val)
+        values$df$footnote_marker[values$df$id == id] <- val_clean
+      }
+    }
   })
   
-  observeEvent(input$log_edit_btn, {
-    entry <- tibble(
-      timestamp = Sys.time(),
-      source_file = input$file_select,
-      action = "Manual Review Completed",
-      reviewer = Sys.getenv("USER")
+  # --- 6. RENAMERS ---
+  output$edit_institutions <- renderRHandsontable({
+    req(values$df)
+    vec <- unique(values$df$institution)
+    rhandsontable(data.frame(Name = vec, stringsAsFactors=F), rowHeaders=TRUE, stretchH = "all") %>% 
+      hot_col("Name", allowInvalid=F)
+  })
+  
+  observeEvent(input$edit_institutions, {
+    req(values$df)
+    raw <- hot_to_r(input$edit_institutions)
+    if(is.null(raw)) return()
+    new_vec <- raw$Name
+    old_vec <- unique(values$df$institution)
+    if(length(new_vec) == length(old_vec) && !identical(new_vec, old_vec)) {
+      diffs <- which(new_vec != old_vec)
+      for(i in diffs) {
+        values$df$institution[values$df$institution == old_vec[i]] <- new_vec[i]
+      }
+      update_maps()
+    }
+  })
+  
+  output$edit_diagnoses <- renderRHandsontable({
+    req(values$df)
+    vec <- unique(values$df$patient_status)
+    rhandsontable(data.frame(Name = vec, stringsAsFactors=F), rowHeaders=TRUE, stretchH = "all") %>% 
+      hot_col("Name", allowInvalid=F)
+  })
+  
+  observeEvent(input$edit_diagnoses, {
+    req(values$df)
+    raw <- hot_to_r(input$edit_diagnoses)
+    if(is.null(raw)) return()
+    new_vec <- raw$Name
+    old_vec <- unique(values$df$patient_status)
+    if(length(new_vec) == length(old_vec) && !identical(new_vec, old_vec)) {
+      diffs <- which(new_vec != old_vec)
+      for(i in diffs) {
+        values$df$patient_status[values$df$patient_status == old_vec[i]] <- new_vec[i]
+      }
+      update_maps()
+    }
+  })
+  
+  # --- 7. EXPORT LOGIC ---
+  reconstruct_json <- reactive({
+    req(values$df)
+    data_list <- values$df %>%
+      rowwise() %>%
+      mutate(cell_data = list(list(
+        value = if(is.na(value)) NULL else value,
+        footnote_marker = if(footnote_marker == "") NULL else footnote_marker
+      ))) %>%
+      ungroup() %>%
+      select(institution, category, patient_status, sex, cell_data) %>%
+      apply(1, as.list)
+    
+    clean_list <- lapply(data_list, function(x) {
+      list(institution = x$institution, category = x$category, patient_status = x$patient_status, sex = x$sex, cell_data = x$cell_data)
+    })
+    
+    list(
+      metadata = values$metadata,
+      dimensions = list(
+        institutions = unique(values$df$institution),
+        diagnoses = unique(values$df$patient_status),
+        sex = unique(values$df$sex)
+      ),
+      data_skeleton = clean_list
     )
-    write_csv(entry, "corrections_ledger.csv", append = file_exists("corrections_ledger.csv"))
-    values$msg <- "Review logged to ledger."
   })
   
-  output$status_msg <- renderText({ values$msg })
+  # Save to Server (03_json)
+  observeEvent(input$save_server, {
+    req(values$df)
+    
+    # Target Directory: 03_json
+    out_dir <- file.path(getwd(), "03_json")
+    if(!dir.exists(out_dir)) dir.create(out_dir)
+    
+    file_name <- paste0(values$filename, "_processed.json")
+    full_path <- file.path(out_dir, file_name)
+    
+    write_json(reconstruct_json(), full_path, pretty = TRUE, auto_unbox = TRUE, null = "null")
+    showNotification(paste("Saved to:", full_path), type = "message", duration = 5)
+  })
+  
+  # Preview
+  output$json_preview <- renderText({
+    req(values$df)
+    toJSON(reconstruct_json(), pretty = TRUE, auto_unbox = TRUE)
+  })
 }
 
 shinyApp(ui, server)
