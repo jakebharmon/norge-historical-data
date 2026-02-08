@@ -47,13 +47,13 @@ ui <- fluidPage(
                            fluidRow(
                              column(6, 
                                     div(class = "panel panel-default",
-                                        div(class = "panel-heading", strong("Institutions")),
+                                        div(class = "panel-heading", strong("Institutions (Right-click to add/remove row)")),
                                         div(class = "panel-body", rHandsontableOutput("edit_institutions"))
                                     )
                              ),
                              column(6, 
                                     div(class = "panel panel-default",
-                                        div(class = "panel-heading", strong("Diagnoses")),
+                                        div(class = "panel-heading", strong("Diagnoses (Right-click to add/remove row)")),
                                         div(class = "panel-body", rHandsontableOutput("edit_diagnoses"))
                                     )
                              )
@@ -132,10 +132,6 @@ server <- function(input, output, session) {
       } else {
         values$metadata <- in_json$metadata
         
-        # Extract original order from metadata if available, otherwise unique appearance
-        inst_levels <- unique(unlist(lapply(in_json$data_skeleton, function(x) x$institution)))
-        sex_levels <- unique(unlist(lapply(in_json$data_skeleton, function(x) x$sex)))
-        
         flat_df <- map_dfr(in_json$data_skeleton, function(x) {
           tibble(
             patient_status = x$patient_status,
@@ -169,7 +165,6 @@ server <- function(input, output, session) {
   # --- HELPER: GET SORTED COLUMNS ---
   get_sorted_col_names <- function(df) {
     # Get unique institutions and sexes preserving their order in the dataframe
-    # This assumes the dataframe was sorted upon loading/creation
     insts <- unique(df$institution)
     sexes <- unique(df$sex)
     
@@ -198,7 +193,6 @@ server <- function(input, output, session) {
     
     # Reorder columns based on Institution -> Sex hierarchy
     desired_order <- get_sorted_col_names(values$df)
-    # Filter to only columns that actually exist in the matrix (safety)
     existing_cols <- intersect(desired_order, names(mat))
     mat <- mat[, existing_cols, drop = FALSE]
     
@@ -231,12 +225,10 @@ server <- function(input, output, session) {
       hot_col("Diagnosis", readOnly = TRUE) %>%
       hot_cols(fixedColumnsLeft = 1) %>%
       hot_table(highlightCol = TRUE, highlightRow = TRUE) %>%
-      # [FIX 1] Force integer-like display for numbers (no .00)
       hot_cols(renderer = "
         function (instance, td, row, col, prop, value, cellProperties) {
           Handsontable.renderers.NumericRenderer.apply(this, arguments);
           if (value !== null && value !== undefined && !isNaN(value)) {
-             // If it's a whole number, show no decimals. Otherwise show default.
              if (value % 1 === 0) {
                 td.innerHTML = value; 
              }
@@ -249,18 +241,9 @@ server <- function(input, output, session) {
         target_id <- note_data$id[i]
         coords <- which(values$id_map == target_id, arr.ind = TRUE)
         if(length(coords) > 0) {
-          # Use col_key to find the correct column index in the reordered matrix
-          # This is tricky because id_map might not match the visual order anymore
-          # Simplification: We rely on the column name matching the col_key
-          
-          # We need to map the ID to the specific visual column name
           rec <- values$df[values$df$id == target_id, ]
           col_name <- paste(rec$institution, rec$sex, sep = " | ")
-          
-          # Find column index in the displayed dataframe 'df'
-          # col_index in 'df' (1-based)
           vis_col_idx <- which(names(df) == col_name)
-          
           if(length(vis_col_idx) > 0) {
             hot <- hot %>% hot_cell(row = coords[1], col = vis_col_idx - 1, comment = note_data$footnote_marker[i])
           }
@@ -290,36 +273,27 @@ server <- function(input, output, session) {
   # --- 5. HANDLE EDITS ---
   observeEvent(input$value_grid$changes$changes, {
     changes <- input$value_grid$changes$changes
-    # We cannot use simple matrix coordinates anymore because columns are reordered.
-    # We must map (row_name, col_name) back to the ID.
-    
     req(changes, values$df)
     
-    # Get current row names (Diagnoses) from the displayed grid
-    # (Assuming the row order hasn't changed from get_val_matrix)
     current_display_df <- get_val_matrix()
     row_names <- current_display_df$Diagnosis
     col_names <- names(current_display_df)
     
     for(ch in changes) {
-      r_vis <- ch[[1]] + 1 # visual row index (1-based)
-      c_vis <- ch[[2]] + 1 # visual col index (1-based)
+      r_vis <- ch[[1]] + 1 
+      c_vis <- ch[[2]] + 1 
       new_val <- ch[[4]]
       
-      # Column 1 is Diagnosis, skip it
       if(c_vis == 1) next 
       
       target_diagnosis <- row_names[r_vis]
       target_col_key <- col_names[c_vis]
       
-      # Parse col_key back to Institution and Sex
       parts <- strsplit(target_col_key, " \\| ")[[1]]
       if(length(parts) != 2) next
       t_inst <- parts[1]
       t_sex <- parts[2]
       
-      # Update the main dataframe
-      # Find the specific row ID matching Diagnosis, Institution, and Sex
       row_idx <- which(values$df$patient_status == target_diagnosis & 
                          values$df$institution == t_inst & 
                          values$df$sex == t_sex)
@@ -365,50 +339,140 @@ server <- function(input, output, session) {
     }
   })
   
-  # --- 6. RENAMERS ---
+  # --- 6. RENAMERS & DYNAMIC ADD/DELETE ---
+  
+  # INSTITUTIONS
   output$edit_institutions <- renderRHandsontable({
     req(values$df)
     vec <- unique(values$df$institution)
+    # allowInsertRow = TRUE enables the context menu to add rows
     rhandsontable(data.frame(Name = vec, stringsAsFactors=F), rowHeaders=TRUE, stretchH = "all") %>% 
-      hot_col("Name", allowInvalid=F)
+      hot_col("Name", allowInvalid=F) %>%
+      hot_context_menu(allowRowEdit = TRUE, allowColEdit = FALSE)
   })
   
   observeEvent(input$edit_institutions, {
     req(values$df)
     raw <- hot_to_r(input$edit_institutions)
     if(is.null(raw)) return()
+    
     new_vec <- raw$Name
+    # Remove empty rows if user added but didn't type
+    new_vec <- new_vec[new_vec != "" & !is.na(new_vec)]
+    
     old_vec <- unique(values$df$institution)
-    if(length(new_vec) == length(old_vec) && !identical(new_vec, old_vec)) {
-      diffs <- which(new_vec != old_vec)
-      for(i in diffs) {
-        values$df$institution[values$df$institution == old_vec[i]] <- new_vec[i]
+    
+    # 1. Handle Renames (indices that exist in both)
+    common_len <- min(length(new_vec), length(old_vec))
+    if (common_len > 0) {
+      for(i in 1:common_len) {
+        if (new_vec[i] != old_vec[i]) {
+          values$df$institution[values$df$institution == old_vec[i]] <- new_vec[i]
+        }
       }
-      # Re-trigger UI updates implicitly by modifying values$df
-      update_maps()
     }
+    
+    # 2. Handle Additions (New rows added to bottom)
+    if (length(new_vec) > length(old_vec)) {
+      new_items <- new_vec[(length(old_vec) + 1):length(new_vec)]
+      
+      # Generate new rows for these institutions
+      meta_diags <- unique(values$df$patient_status)
+      meta_sex <- unique(values$df$sex)
+      
+      new_rows_grid <- expand.grid(
+        institution = new_items,
+        patient_status = meta_diags,
+        sex = meta_sex,
+        stringsAsFactors = FALSE
+      )
+      
+      new_rows_df <- new_rows_grid %>%
+        mutate(
+          category = if(!is.null(values$metadata$title)) values$metadata$title else "Export",
+          value = NA_real_,
+          footnote_marker = "",
+          # Generate new unique IDs
+          id = seq(from = max(values$df$id, 0) + 1, length.out = n())
+        )
+      
+      # Append to main data
+      values$df <- bind_rows(values$df, new_rows_df)
+      showNotification(paste("Added", length(new_items), "new institution(s)."), type = "message")
+    }
+    
+    # 3. Handle Deletions (Rows removed)
+    if (length(new_vec) < length(old_vec)) {
+      # Identify which items from old_vec are NOT in new_vec (considering index position usually implies deletion)
+      # Simpler approach: Keep only those present in new_vec
+      values$df <- values$df %>% filter(institution %in% new_vec)
+      showNotification("Removed institution(s).", type = "warning")
+    }
+    
+    update_maps()
   })
   
+  # DIAGNOSES
   output$edit_diagnoses <- renderRHandsontable({
     req(values$df)
     vec <- unique(values$df$patient_status)
     rhandsontable(data.frame(Name = vec, stringsAsFactors=F), rowHeaders=TRUE, stretchH = "all") %>% 
-      hot_col("Name", allowInvalid=F)
+      hot_col("Name", allowInvalid=F) %>%
+      hot_context_menu(allowRowEdit = TRUE, allowColEdit = FALSE)
   })
   
   observeEvent(input$edit_diagnoses, {
     req(values$df)
     raw <- hot_to_r(input$edit_diagnoses)
     if(is.null(raw)) return()
+    
     new_vec <- raw$Name
+    new_vec <- new_vec[new_vec != "" & !is.na(new_vec)]
     old_vec <- unique(values$df$patient_status)
-    if(length(new_vec) == length(old_vec) && !identical(new_vec, old_vec)) {
-      diffs <- which(new_vec != old_vec)
-      for(i in diffs) {
-        values$df$patient_status[values$df$patient_status == old_vec[i]] <- new_vec[i]
+    
+    # 1. Handle Renames
+    common_len <- min(length(new_vec), length(old_vec))
+    if (common_len > 0) {
+      for(i in 1:common_len) {
+        if (new_vec[i] != old_vec[i]) {
+          values$df$patient_status[values$df$patient_status == old_vec[i]] <- new_vec[i]
+        }
       }
-      update_maps()
     }
+    
+    # 2. Handle Additions
+    if (length(new_vec) > length(old_vec)) {
+      new_items <- new_vec[(length(old_vec) + 1):length(new_vec)]
+      
+      meta_inst <- unique(values$df$institution)
+      meta_sex <- unique(values$df$sex)
+      
+      new_rows_grid <- expand.grid(
+        patient_status = new_items,
+        institution = meta_inst,
+        sex = meta_sex,
+        stringsAsFactors = FALSE
+      )
+      
+      new_rows_df <- new_rows_grid %>%
+        mutate(
+          category = if(!is.null(values$metadata$title)) values$metadata$title else "Export",
+          value = NA_real_,
+          footnote_marker = "",
+          id = seq(from = max(values$df$id, 0) + 1, length.out = n())
+        )
+      
+      values$df <- bind_rows(values$df, new_rows_df)
+      showNotification(paste("Added", length(new_items), "new diagnosis(es)."), type = "message")
+    }
+    
+    # 3. Handle Deletions
+    if (length(new_vec) < length(old_vec)) {
+      values$df <- values$df %>% filter(patient_status %in% new_vec)
+      showNotification("Removed diagnosis(es).", type = "warning")
+    }
+    
+    update_maps()
   })
   
   # --- 7. EXPORT LOGIC ---

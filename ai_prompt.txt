@@ -1,45 +1,26 @@
-Task: Extract the structural coordinate map for a medical reporting table. You must dynamically identify rows and columns to account for year-over-year variations and capture footnote markers associated with specific data points.
+Task: Extract the structural coordinate map for a medical reporting table. You must dynamically identify rows and columns to account for year-over-year variations.
 
 Data Target: Indkomne/Innkomne.
 
 Extraction Rules:
 
-Dynamic Headers: Identify all Institutions (Columns) found in the header row.
+Title: Use the title of the table for the Title field.
 
-Dynamic Rows: Identify all Patient Statuses/Diagnoses (Rows) in the first column.
+Year: Extract the year from the title.
+
+Dynamic Headers: Identify all Institutions found in the header row or first column.
+
+Dynamic Rows: Identify all Patient Statuses/Diagnoses in the header row or first column.
 
 Hierarchical Rows: If a row has a parent category and sub-categories (e.g., "Idiotismus" followed by "congenitus"), format as Parent - Child.
-
-Value Handling: Set every value to null.
-
-Footnote Detection: If a cell contains a footnote marker (e.g., a small number, asterisk, or letter next to the value), extract it into the footnote_marker field. If none exists, set it to null.
-
-Categorization: Use the title of the table for the category field.
 
 Sex Sub-columns: Every institution must be mapped against "Md.", "Kv.", and "Tils.".
 
 Output Schema: Generate a JSON object with this exact structure:
-
 {
-  "metadata": {
-    "title": "Tabel V. Indkomne i 1872",
-    "year": 1872
-  },
-  "dimensions": {
-    "institutions": ["List all unique institutions found"],
-    "diagnoses": ["List all unique diagnosis rows found, preserving hierarchy"],
-    "sex": ["Md.", "Kv.", "Tils."]
-  },
-  "data_skeleton": [
-    {
-      "institution": "string",
-      "category": "Indkomne i 1872",
-      "patient_status": "string",
-      "sex": "string",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": "string or null"
-      }
-    }
-  ]
+  "title": "Insert Title",
+  "year": "Insert Year",
+  "institutions": ["List all unique institutions found"],
+  "diagnoses": ["List all unique diagnosis rows found, preserving hierarchy"],
+  "sex": ["Md.", "Kv.", "Tils."]
 }
