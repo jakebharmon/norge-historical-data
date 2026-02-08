@@ -4,7 +4,6 @@ library(rhandsontable)
 library(jsonlite)
 
 # --- SETUP: DIRECTORY CREATION ---
-# Ensure '03_json' exists in the current project directory
 if (!dir.exists("03_json")) {
   dir.create("03_json")
 }
@@ -18,14 +17,10 @@ ui <- fluidPage(
     sidebarPanel(
       width = 3, 
       h4("1. Import"),
-      # [STRICT] Only accepts .json
       fileInput("upload_file", "Upload File (.json)", accept = ".json"),
-      
       br(),
       h4("2. Export"),
-      # Save directly to the new project folder
-      actionButton("save_server", "Save file", icon = icon("save"), class = "btn-success btn-block"),
-      
+      actionButton("save_server", "Save to /03_json", icon = icon("save"), class = "btn-success btn-block"),
       hr(),
       helpText("Tip: Upload the 'Dimensions JSON' from the AI prompt to start a new grid, or a previously saved JSON to resume editing.")
     ),
@@ -103,14 +98,17 @@ server <- function(input, output, session) {
       in_json <- fromJSON(file_path, simplifyVector = FALSE)
       
       # PATH A: DIMENSIONS JSON (Auto-Expand)
-      # Detects if it has 'institutions' but NO 'data_skeleton'
       if (is.null(in_json$data_skeleton) && !is.null(in_json$institutions)) {
         values$metadata <- list(title = in_json$title, year = in_json$year)
         
+        # Ensure factor levels for correct sorting later
+        inst_levels <- unlist(in_json$institutions)
+        sex_levels <- unlist(in_json$sex)
+        
         full_grid <- expand.grid(
-          institution = unlist(in_json$institutions),
+          institution = inst_levels,
           patient_status = unlist(in_json$diagnoses),
-          sex = unlist(in_json$sex),
+          sex = sex_levels,
           stringsAsFactors = FALSE
         )
         
@@ -119,8 +117,12 @@ server <- function(input, output, session) {
             category = in_json$title,
             value = NA_real_,
             footnote_marker = "",
-            id = row_number()
-          )
+            id = row_number(),
+            # Create a sorting key to preserve order: Institution -> Sex
+            sort_key = as.integer(factor(institution, levels = inst_levels)) * 100 + 
+              as.integer(factor(sex, levels = sex_levels))
+          ) %>%
+          arrange(sort_key)
         
         values$df <- flat_df
         update_maps()
@@ -129,6 +131,10 @@ server <- function(input, output, session) {
         # PATH B: FULL PROCESSED JSON (Resume Work)
       } else {
         values$metadata <- in_json$metadata
+        
+        # Extract original order from metadata if available, otherwise unique appearance
+        inst_levels <- unique(unlist(lapply(in_json$data_skeleton, function(x) x$institution)))
+        sex_levels <- unique(unlist(lapply(in_json$data_skeleton, function(x) x$sex)))
         
         flat_df <- map_dfr(in_json$data_skeleton, function(x) {
           tibble(
@@ -160,22 +166,59 @@ server <- function(input, output, session) {
     values$id_map <- as.matrix(wid)
   }
   
+  # --- HELPER: GET SORTED COLUMNS ---
+  get_sorted_col_names <- function(df) {
+    # Get unique institutions and sexes preserving their order in the dataframe
+    # This assumes the dataframe was sorted upon loading/creation
+    insts <- unique(df$institution)
+    sexes <- unique(df$sex)
+    
+    # Create the desired column order: Inst1|Sex1, Inst1|Sex2, Inst2|Sex1...
+    col_order <- c()
+    for(i in insts) {
+      for(s in sexes) {
+        col_order <- c(col_order, paste(i, s, sep = " | "))
+      }
+    }
+    return(col_order)
+  }
+  
   # --- 3. DATA MATRICES ---
   get_val_matrix <- reactive({
     req(values$df)
     if(!all(c("institution", "sex") %in% names(values$df))) return(NULL)
+    
     long <- values$df %>% mutate(col_key = paste(institution, sex, sep = " | "))
-    mat <- long %>% select(patient_status, col_key, value) %>% 
-      pivot_wider(names_from = col_key, values_from = value) %>% column_to_rownames("patient_status")
+    
+    # pivot_wider will sort alphabetically by default, so we must reorder manually
+    mat <- long %>% 
+      select(patient_status, col_key, value) %>% 
+      pivot_wider(names_from = col_key, values_from = value) %>% 
+      column_to_rownames("patient_status")
+    
+    # Reorder columns based on Institution -> Sex hierarchy
+    desired_order <- get_sorted_col_names(values$df)
+    # Filter to only columns that actually exist in the matrix (safety)
+    existing_cols <- intersect(desired_order, names(mat))
+    mat <- mat[, existing_cols, drop = FALSE]
+    
     as.data.frame(mat) %>% rownames_to_column("Diagnosis")
   })
   
   get_note_matrix <- reactive({
     req(values$df)
     if(!all(c("institution", "sex") %in% names(values$df))) return(NULL)
+    
     long <- values$df %>% mutate(col_key = paste(institution, sex, sep = " | "))
-    mat <- long %>% select(patient_status, col_key, footnote_marker) %>% 
-      pivot_wider(names_from = col_key, values_from = footnote_marker) %>% column_to_rownames("patient_status")
+    mat <- long %>% 
+      select(patient_status, col_key, footnote_marker) %>% 
+      pivot_wider(names_from = col_key, values_from = footnote_marker) %>% 
+      column_to_rownames("patient_status")
+    
+    desired_order <- get_sorted_col_names(values$df)
+    existing_cols <- intersect(desired_order, names(mat))
+    mat <- mat[, existing_cols, drop = FALSE]
+    
     as.data.frame(mat) %>% rownames_to_column("Diagnosis")
   })
   
@@ -183,10 +226,22 @@ server <- function(input, output, session) {
   output$value_grid <- renderRHandsontable({
     df <- get_val_matrix()
     req(df)
+    
     hot <- rhandsontable(df, rowHeaders = TRUE, stretchH = "all") %>%
       hot_col("Diagnosis", readOnly = TRUE) %>%
       hot_cols(fixedColumnsLeft = 1) %>%
-      hot_table(highlightCol = TRUE, highlightRow = TRUE)
+      hot_table(highlightCol = TRUE, highlightRow = TRUE) %>%
+      # [FIX 1] Force integer-like display for numbers (no .00)
+      hot_cols(renderer = "
+        function (instance, td, row, col, prop, value, cellProperties) {
+          Handsontable.renderers.NumericRenderer.apply(this, arguments);
+          if (value !== null && value !== undefined && !isNaN(value)) {
+             // If it's a whole number, show no decimals. Otherwise show default.
+             if (value % 1 === 0) {
+                td.innerHTML = value; 
+             }
+          }
+        }")
     
     note_data <- values$df %>% filter(!is.na(footnote_marker) & footnote_marker != "")
     if(nrow(note_data) > 0 && !is.null(values$id_map)) {
@@ -194,7 +249,21 @@ server <- function(input, output, session) {
         target_id <- note_data$id[i]
         coords <- which(values$id_map == target_id, arr.ind = TRUE)
         if(length(coords) > 0) {
-          hot <- hot %>% hot_cell(row = coords[1], col = coords[2] + 1, comment = note_data$footnote_marker[i])
+          # Use col_key to find the correct column index in the reordered matrix
+          # This is tricky because id_map might not match the visual order anymore
+          # Simplification: We rely on the column name matching the col_key
+          
+          # We need to map the ID to the specific visual column name
+          rec <- values$df[values$df$id == target_id, ]
+          col_name <- paste(rec$institution, rec$sex, sep = " | ")
+          
+          # Find column index in the displayed dataframe 'df'
+          # col_index in 'df' (1-based)
+          vis_col_idx <- which(names(df) == col_name)
+          
+          if(length(vis_col_idx) > 0) {
+            hot <- hot %>% hot_cell(row = coords[1], col = vis_col_idx - 1, comment = note_data$footnote_marker[i])
+          }
         }
       }
     }
@@ -221,28 +290,77 @@ server <- function(input, output, session) {
   # --- 5. HANDLE EDITS ---
   observeEvent(input$value_grid$changes$changes, {
     changes <- input$value_grid$changes$changes
-    req(changes, values$id_map)
+    # We cannot use simple matrix coordinates anymore because columns are reordered.
+    # We must map (row_name, col_name) back to the ID.
+    
+    req(changes, values$df)
+    
+    # Get current row names (Diagnoses) from the displayed grid
+    # (Assuming the row order hasn't changed from get_val_matrix)
+    current_display_df <- get_val_matrix()
+    row_names <- current_display_df$Diagnosis
+    col_names <- names(current_display_df)
+    
     for(ch in changes) {
-      r <- ch[[1]] + 1; c <- ch[[2]] + 1; new_val <- ch[[4]]
-      if(c == 1) next 
-      id <- values$id_map[r, c - 1]
-      if(!is.na(id)) {
+      r_vis <- ch[[1]] + 1 # visual row index (1-based)
+      c_vis <- ch[[2]] + 1 # visual col index (1-based)
+      new_val <- ch[[4]]
+      
+      # Column 1 is Diagnosis, skip it
+      if(c_vis == 1) next 
+      
+      target_diagnosis <- row_names[r_vis]
+      target_col_key <- col_names[c_vis]
+      
+      # Parse col_key back to Institution and Sex
+      parts <- strsplit(target_col_key, " \\| ")[[1]]
+      if(length(parts) != 2) next
+      t_inst <- parts[1]
+      t_sex <- parts[2]
+      
+      # Update the main dataframe
+      # Find the specific row ID matching Diagnosis, Institution, and Sex
+      row_idx <- which(values$df$patient_status == target_diagnosis & 
+                         values$df$institution == t_inst & 
+                         values$df$sex == t_sex)
+      
+      if(length(row_idx) == 1) {
         val_clean <- if(is.na(new_val) || new_val == "") NA_real_ else as.numeric(new_val)
-        values$df$value[values$df$id == id] <- val_clean
+        values$df$value[row_idx] <- val_clean
       }
     }
   })
   
   observeEvent(input$note_grid$changes$changes, {
     changes <- input$note_grid$changes$changes
-    req(changes, values$id_map)
+    req(changes, values$df)
+    
+    current_display_df <- get_note_matrix()
+    row_names <- current_display_df$Diagnosis
+    col_names <- names(current_display_df)
+    
     for(ch in changes) {
-      r <- ch[[1]] + 1; c <- ch[[2]] + 1; new_val <- ch[[4]]
-      if(c == 1) next 
-      id <- values$id_map[r, c - 1]
-      if(!is.na(id)) {
+      r_vis <- ch[[1]] + 1 
+      c_vis <- ch[[2]] + 1 
+      new_val <- ch[[4]]
+      
+      if(c_vis == 1) next 
+      
+      target_diagnosis <- row_names[r_vis]
+      target_col_key <- col_names[c_vis]
+      
+      parts <- strsplit(target_col_key, " \\| ")[[1]]
+      if(length(parts) != 2) next
+      t_inst <- parts[1]
+      t_sex <- parts[2]
+      
+      row_idx <- which(values$df$patient_status == target_diagnosis & 
+                         values$df$institution == t_inst & 
+                         values$df$sex == t_sex)
+      
+      if(length(row_idx) == 1) {
         val_clean <- if(is.null(new_val) || new_val == "") "" else as.character(new_val)
-        values$df$footnote_marker[values$df$id == id] <- val_clean
+        values$df$footnote_marker[row_idx] <- val_clean
       }
     }
   })
@@ -266,6 +384,7 @@ server <- function(input, output, session) {
       for(i in diffs) {
         values$df$institution[values$df$institution == old_vec[i]] <- new_vec[i]
       }
+      # Re-trigger UI updates implicitly by modifying values$df
       update_maps()
     }
   })
@@ -320,22 +439,16 @@ server <- function(input, output, session) {
     )
   })
   
-  # Save to Server (03_json)
   observeEvent(input$save_server, {
     req(values$df)
-    
-    # Target Directory: 03_json
     out_dir <- file.path(getwd(), "03_json")
     if(!dir.exists(out_dir)) dir.create(out_dir)
-    
     file_name <- paste0(values$filename, "_processed.json")
     full_path <- file.path(out_dir, file_name)
-    
     write_json(reconstruct_json(), full_path, pretty = TRUE, auto_unbox = TRUE, null = "null")
     showNotification(paste("Saved to:", full_path), type = "message", duration = 5)
   })
   
-  # Preview
   output$json_preview <- renderText({
     req(values$df)
     toJSON(reconstruct_json(), pretty = TRUE, auto_unbox = TRUE)
