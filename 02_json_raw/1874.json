@@ -1,6 +1,6 @@
 {
-  "title": "Tabel V. Indkomne i 1872",
-  "year": 1872,
+  "title": "Indkomne i 1874.",
+  "year": "1874",
   "institutions": [
     "Gaustad",
     "Kristiania",
@@ -11,22 +11,21 @@
     "Rosenbergs",
     "Mollendal",
     "Trondhjem",
-    "Rotvold",
-    "Tilsammen"
+    "Rotvold"
   ],
   "diagnoses": [
     "Melancholia",
-    "Melancholia - cum stupore",
+    "Melancholia - cum stupore (Stupiditas)",
     "Mania",
     "Monomania",
-    "Stupiditas",
     "Delirium tremens",
     "Dementia",
+    "Idiotismus acquisitus",
     "Idiotismus - congenitus",
-    "Idiotismus - acqusitus",
     "Epilepsia",
     "Paralysis generalis",
     "Hemiplegia",
+    "Hypochondria",
     "Til Observation"
   ],
   "sex": [

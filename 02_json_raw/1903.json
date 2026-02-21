@@ -1,0 +1,7 @@
+{
+  "title": "Tabel VI. Indkomne. 1903.",
+  "year": "1903",
+  "institutions": ["Gaustad", "Kristiania", "Oslo", "Dedichens", "Kristiansand", "Eg", "Neevengaarden", "Rosenberg", "Mellendal", "Trondhjem", "Rotvold", "Rønvik", "Kriminalasylet"],
+  "diagnoses": ["Melancholia", "Mania", "Amentia", "Dementia", "Paranoia", "Insania - periodica", "Insania - epileptica", "Insania - hysterica", "Insania - hypochondrica", "Insania - degenerativa", "Insania - neurasthenica", "Alcoholismus", "Paralysis generalis", "Vitia organica cerebri", "Idiotia", "Til Observation"],
+  "sex": ["Md.", "Kv."]
+}

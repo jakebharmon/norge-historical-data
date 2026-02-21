@@ -1,0 +1,7 @@
+{
+  "title": "Tabel VI. Indkomne i 1911.",
+  "year": "1911",
+  "institutions": ["Gaustad", "Dikemark", "Oslo", "Dedichens", "Blakstad", "Sanderud", "Bratsberg", "Kristiansand", "Eg", "Valen", "Neevengaarden", "Rosenberg", "Møllendal", "Trondhjem", "Rotvold", "Rønvik", "Kriminalasylet"],
+  "diagnoses": ["Melancholia.", "Mania.", "Amentia", "Dementia", "Paranoia.", "Insania periodica", "Insania periodica - epileptica", "Insania periodica - hysterica", "Insania periodica - hypochondrica", "Insania periodica - degenerativa.", "Insania periodica - neurasthenica.", "Alcoholismus.", "Paralysis generalis", "Vitia organica cerebri", "Idiotia (imbecillitas)..", "Til observation........."],
+  "sex": ["Md.", "Kv."]
+}

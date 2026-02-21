@@ -1,0 +1,7 @@
+{
+  "title": "Tabell 3. Innkommet. 1924.",
+  "year": "1924",
+  "institutions": ["Gaustad", "Eg", "Rotvold", "Rønvik", "Reitgjerdet", "Dikemark", "Blakstad", "Veum", "Sanderud", "Prestsæter", "Faret", "Kristiansands", "Dale", "Valen", "Neevengaarden", "Rosenberg", "Opdel", "Østmarken", "Oslo", "Dedichens", "Møllendal", "Kriminalasylet"],
+  "diagnoses": ["Melancholia", "Mania", "Amentia", "Dementia", "Paranoia", "Insania periodica", "Insania periodica - epileptica", "Insania periodica - hysterica", "Insania periodica - hypochondrica", "Insania periodica - degenerativa", "Insania periodica - neurasthenica", "Alcoholismus", "Paralysis generalis", "Vitia org. cerebri", "Idiotia (imbecillitas)", "Til observasjon."],
+  "sex": ["Md.", "Kv."]
+}

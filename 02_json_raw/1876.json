@@ -1,0 +1,33 @@
+{
+  "title": "Tabel VI. Samtlige Asyler. Indkomne i 1876.",
+  "year": "1876",
+  "institutions": [
+    "Gaustad",
+    "Christiania",
+    "Oslo",
+    "Christiansand",
+    "Stavanger",
+    "Bergen",
+    "Rosenbergs",
+    "Mollendal",
+    "Trondhjem",
+    "Rotvold"
+  ],
+  "diagnoses": [
+    "Melancholia",
+    "Melancholia - cum stupore",
+    "Mania",
+    "Monomania",
+    "Delirium tremens",
+    "Dementia",
+    "Idiotismus - acquisitus",
+    "Idiotismus - congenitus",
+    "Epilepsia",
+    "Paralysis generalis",
+    "Til Observation"
+  ],
+  "sex": [
+    "Md.",
+    "Kv."
+  ]
+}

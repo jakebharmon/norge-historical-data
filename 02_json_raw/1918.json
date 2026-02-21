@@ -1,0 +1,7 @@
+{
+  "title": "Tabel III. Indkommet. 1918.",
+  "year": "1918",
+  "institutions": ["Gaustad", "Eg", "Rotvoll", "Rønvik", "Dikemark", "Blakstad", "Veum", "Sanderud", "Prestsæter"],
+  "diagnoses": ["Melancholia..", "Mania....", "Amentia.", "Dementia", "Paranoia..", "Insania periodica", "Insania periodica - epileptica", "Insania periodica - hysterica.", "Insania periodica - hypochondrica", "Insania periodica - degenerativa..", "Insania periodica - neurasthenica.", "Alcoholismus....", "Paralysis generalis", "Vitia org. cerebri....", "Idiotia (imbecillitas)", "Til observation", "Morbus nullus"],
+  "sex": ["Md.", "Kv."]
+}

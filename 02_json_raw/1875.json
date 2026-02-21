@@ -1,0 +1,35 @@
+{
+  "title": "Indkomne i 1875",
+  "year": "1875",
+  "institutions": [
+    "Samtlige Asyler",
+    "Gaustad",
+    "Kristiania",
+    "Oslo",
+    "Kristiansand",
+    "Stavanger",
+    "Bergen",
+    "Rosenbergs",
+    "Mellendal",
+    "Trondhjem",
+    "Rotvold"
+  ],
+  "diagnoses": [
+    "Melancholia",
+    "Melancholia cum Stupore",
+    "Mania",
+    "Monomania",
+    "Delirium tremens",
+    "Dementia",
+    "Idiotismus acquisitus",
+    "Idiotismus congenitus",
+    "Epilepsia",
+    "Paralysis generalis",
+    "Observation"
+  ],
+  "sex": [
+    "Md.",
+    "Kv.",
+    "Tils."
+  ]
+}

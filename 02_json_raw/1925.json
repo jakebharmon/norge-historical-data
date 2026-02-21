@@ -1,0 +1,26 @@
+{
+  "title": "Tabell 3. Innkommet",
+  "year": "1925",
+  "institutions": [
+    "Gaustad", "Eg", "Rotvold", "Renvik", "Reitgjerdet", "Dikemark", "Blakstad", "Veum", "Sanderud", "Presteseter", "Faret", "Kristiansands", "Dale", "Valen", "Neevengaarden", "Rosenberg", "Opdol", "Østmarken", "Oslo", "Dedichens", "Møllendal", "Kriminalasylet"
+  ],
+  "diagnoses": [
+    "Melancholia",
+    "Mania",
+    "Amentia",
+    "Dementia",
+    "Paranoia",
+    "Insania hypochondrica",
+    "Insania neurasthenica",
+    "Insania degenerativa",
+    "Insania epileptica",
+    "Insania hysterica",
+    "Insania periodica",
+    "Alcoholismus",
+    "Paralysis generalis",
+    "Vitia cerebri",
+    "Idiotia",
+    "Til observasjon"
+  ],
+  "sex": ["Md.", "Kv."]
+}

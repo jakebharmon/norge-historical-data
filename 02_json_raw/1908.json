@@ -1,0 +1,7 @@
+{
+  "title": "Tabel VI. Indkomne i 1908.",
+  "year": "1908",
+  "institutions": ["Gaustad", "Kristiania og Dikemark", "Oslo", "Dedichens", "Blakstad", "Sanderud", "Kristiansand", "Eg", "Neevengaarden", "Rosenberg", "Møllendal", "Trondhjem", "Rotvold", "Rønvik", "Kriminalasylet"],
+  "diagnoses": ["Melancholia", "Mania", "Amentia", "Dementia", "Paranoia", "Insania periodica", "Insania periodica - epileptica", "Insania periodica - hysterica", "Insania periodica - hypochondrica", "Insania periodica - degenerativa..", "Insania periodica - neurasthenica.", "Alcoholismus...", "Paralysis generalis", "Vitia organica cerebri", "Idiotia (imbecillitas)..", "Til observation etc...."],
+  "sex": ["Md.", "Kv."]
+}

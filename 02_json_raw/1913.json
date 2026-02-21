@@ -1,0 +1,7 @@
+{
+  "title": "Tabel V. Indkommet i 1913.",
+  "year": "1913",
+  "institutions": ["Gaustad", "Dikemark", "Oslo", "Dedichens", "Blakstad", "Sanderud", "Prestsæter", "Bratsberg", "Kristiansand", "Eg", "Dale", "Valen", "Neevengaarden", "Rosenbergs", "Mollen-dal", "Opdøl", "Trondhjem", "Rotvold", "Rønvik", "Kriminalasylet"],
+  "diagnoses": ["Melancholia.", "Mania..", "Amentia.", "Dementia.", "Paranoia", "Insania periodica.", "Insania periodica - epileptica.", "Insania periodica - hysterica", "Insania periodica - hypochondr.", "Insania periodica - degenerat..", "Insania periodica - neurasthen..", "Alcoholismus.", "Paralysis generalis", "Vitia organica cer.", "Idiotia (imbecillitas)", "Til observation."],
+  "sex": ["Md.", "Kv."]
+}

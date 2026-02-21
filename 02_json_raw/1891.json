@@ -1,0 +1,7 @@
+{
+  "title": "Tabel VI. Indkomne. 1891.",
+  "year": "1891",
+  "institutions": ["Gaustad", "Kristiania", "Oslo", "Kristiansand", "Eg", "Stavanger", "Newengaarden", "Rosenbergs", "Møllendal", "Trondhjem", "Rotvold"],
+  "diagnoses": ["Melancholia", "Melancholia - cum. stup.", "Mania", "Monomania", "Paranoia", "Dementia", "Dementia - acuta", "Insania periodica", "Idiotismus - acquisitus", "Idiotismus - congenitus", "Paralysis generalis", "Epilepsia", "Alcoholismus chron.", "Delirium tremens", "Hypochondria", "Hysteria", "Til Observation"],
+  "sex": ["Md.", "Kv."]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Tabell 3. Innkomne patienter i året",
+  "year": "1928",
+  "institutions": [
+    "Gaustad", "Eg", "Rotvold", "Rønvik", "Reitgjerdet", "Kriminalasylet", "Dikemark", "Veum", "Blakstad", "Sanderud", "Presteseter", "Lier", "Faret", "Kristiansands", "Dale", "Valen", "Neevengården", "Rosenberg", "Opdol", "Østmarken", "Oslo hospitals", "Dedichens", "Møllendal"
+  ],
+  "diagnoses": [
+    "Schizophrenia - præcox",
+    "Schizophrenia - paranoides",
+    "Insania manico-melancholica",
+    "Insania e constitutione",
+    "Insania ex imbecillitate",
+    "Dementia - senilis",
+    "Dementia - aliae",
+    "Paranoia",
+    "Idiotia",
+    "Insania alcoholica",
+    "Insania epileptica",
+    "Insania syfilogenes",
+    "Insaniae aliae generis",
+    "Vitia cerebri",
+    "Amentia",
+    "Til observasjon"
+  ],
+  "sex": ["Md.", "Kv."]
+}

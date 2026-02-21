@@ -1,0 +1,35 @@
+{
+  "title": "Indkomne i 1873",
+  "year": "1873",
+  "institutions": [
+    "Gaustad",
+    "Kristiania",
+    "Oslo",
+    "Kristiansand",
+    "Stavanger",
+    "Bergen",
+    "Rosenbergs",
+    "Møllendal",
+    "Trondhjem",
+    "Rotvold",
+    "Tilsammen"
+  ],
+  "diagnoses": [
+    "Melancholia",
+    "Melancholia - cum stupore (Stupiditas)",
+    "Mania",
+    "Monomania",
+    "Delirium tremens",
+    "Dementia",
+    "Idiotismus - congenitus",
+    "Idiotismus - acquisitus",
+    "Epilepsia",
+    "Paralysis generalis",
+    "Til Observation"
+  ],
+  "sex": [
+    "Md.",
+    "Kv.",
+    "Tils."
+  ]
+}

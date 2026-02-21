@@ -14,7 +14,7 @@ Dynamic Rows: Identify all Patient Statuses/Diagnoses in the header row or first
 
 Hierarchical Rows: If a row has a parent category and sub-categories (e.g., "Idiotismus" followed by "congenitus"), format as Parent - Child.
 
-Sex Sub-columns: Every institution must be mapped against "Md.", "Kv.", and "Tils.".
+Sex Sub-columns: Every institution must be mapped against "Md.", "Kv.". EXCLUDE "Tils.".
 
 Output Schema: Generate a JSON object with this exact structure:
 {
@@ -22,5 +22,5 @@ Output Schema: Generate a JSON object with this exact structure:
   "year": "Insert Year",
   "institutions": ["List all unique institutions found"],
   "diagnoses": ["List all unique diagnosis rows found, preserving hierarchy"],
-  "sex": ["Md.", "Kv.", "Tils."]
+  "sex": ["Md.", "Kv."]
 }
