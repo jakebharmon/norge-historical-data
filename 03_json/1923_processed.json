@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Tabel II (forts). 1922.",
-    "year": "1922"
+    "title": "Tabel II (forts). 1923.",
+    "year": "1923"
   },
   "dimensions": {
     "institutions": ["Faret", "Kristian-sands", "Dale", "Valen", "Neevengaarden", "Fastings Minde", "Opdol", "Østmark", "Oslo", "Dedichens", "Møllendal", "Kriminal-asylet", "Gaustad", "Eg", "Rotvold", "Ronvik", "Dikemark", "Blakstad", "Veum", "Sanderud", "Prestsaeter", "Reitgjerdet"],
@@ -11,7 +11,7 @@
   "data_skeleton": [
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -21,7 +21,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -31,7 +31,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -41,7 +41,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -51,7 +51,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -61,7 +61,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -71,7 +71,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -81,7 +81,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -91,7 +91,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -101,7 +101,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -111,7 +111,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -121,7 +121,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -131,7 +131,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -141,7 +141,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -151,7 +151,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -161,7 +161,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -171,7 +171,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -181,7 +181,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -191,7 +191,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -201,7 +201,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -211,7 +211,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -221,7 +221,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -231,7 +231,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -241,7 +241,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -251,7 +251,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -261,7 +261,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -271,7 +271,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -281,7 +281,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -291,7 +291,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -301,7 +301,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -311,7 +311,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -321,7 +321,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -331,7 +331,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -341,7 +341,7 @@
     },
     {
       "institution": "Faret",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -351,7 +351,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -361,7 +361,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -371,7 +371,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -381,7 +381,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -391,7 +391,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -401,7 +401,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -411,7 +411,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -421,7 +421,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -431,7 +431,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -441,7 +441,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -451,7 +451,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -461,7 +461,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -471,7 +471,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -481,7 +481,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -491,7 +491,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -501,7 +501,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -511,7 +511,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -521,7 +521,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -531,7 +531,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -541,7 +541,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -551,7 +551,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -561,7 +561,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -571,7 +571,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -581,7 +581,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -591,7 +591,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -601,7 +601,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -611,7 +611,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -621,7 +621,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -631,7 +631,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -641,7 +641,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -651,7 +651,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -661,7 +661,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -671,7 +671,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -681,7 +681,7 @@
     },
     {
       "institution": "Kristian-sands",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -691,7 +691,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -701,7 +701,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -711,7 +711,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -721,7 +721,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -731,7 +731,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -741,7 +741,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -751,7 +751,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -761,7 +761,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -771,7 +771,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -781,7 +781,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -791,7 +791,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -801,7 +801,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -811,7 +811,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -821,7 +821,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -831,7 +831,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -841,7 +841,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -851,7 +851,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -861,7 +861,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -871,7 +871,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -881,7 +881,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -891,7 +891,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -901,7 +901,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -911,7 +911,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -921,7 +921,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -931,7 +931,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -941,7 +941,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -951,7 +951,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -961,7 +961,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -971,7 +971,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -981,7 +981,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -991,7 +991,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -1001,7 +1001,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -1011,7 +1011,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -1021,7 +1021,7 @@
     },
     {
       "institution": "Dale",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -1031,7 +1031,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -1041,7 +1041,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -1051,7 +1051,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -1061,7 +1061,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -1071,7 +1071,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -1081,7 +1081,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -1091,7 +1091,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -1101,7 +1101,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -1111,7 +1111,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -1121,7 +1121,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -1131,7 +1131,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -1141,7 +1141,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -1151,7 +1151,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -1161,7 +1161,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -1171,7 +1171,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -1181,7 +1181,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -1191,7 +1191,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -1201,7 +1201,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -1211,7 +1211,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -1221,7 +1221,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -1231,7 +1231,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -1241,7 +1241,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -1251,7 +1251,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -1261,7 +1261,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -1271,7 +1271,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -1281,7 +1281,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -1291,7 +1291,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -1301,7 +1301,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -1311,7 +1311,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -1321,7 +1321,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -1331,7 +1331,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -1341,7 +1341,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -1351,7 +1351,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -1361,7 +1361,7 @@
     },
     {
       "institution": "Valen",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -1371,7 +1371,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -1381,7 +1381,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -1391,7 +1391,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -1401,7 +1401,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -1411,7 +1411,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -1421,7 +1421,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -1431,7 +1431,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -1441,7 +1441,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -1451,7 +1451,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -1461,7 +1461,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -1471,7 +1471,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -1481,7 +1481,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -1491,7 +1491,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -1501,7 +1501,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -1511,7 +1511,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -1521,7 +1521,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -1531,7 +1531,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -1541,7 +1541,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -1551,7 +1551,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -1561,7 +1561,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -1571,7 +1571,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -1581,7 +1581,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -1591,7 +1591,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -1601,7 +1601,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -1611,7 +1611,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -1621,7 +1621,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -1631,7 +1631,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -1641,7 +1641,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -1651,7 +1651,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -1661,7 +1661,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -1671,7 +1671,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -1681,7 +1681,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -1691,7 +1691,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -1701,7 +1701,7 @@
     },
     {
       "institution": "Neevengaarden",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -1711,7 +1711,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -1721,7 +1721,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -1731,7 +1731,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -1741,7 +1741,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -1751,7 +1751,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -1761,7 +1761,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -1771,7 +1771,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -1781,7 +1781,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -1791,7 +1791,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -1801,7 +1801,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -1811,7 +1811,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -1821,7 +1821,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -1831,7 +1831,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -1841,7 +1841,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -1851,7 +1851,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -1861,7 +1861,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -1871,7 +1871,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -1881,7 +1881,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -1891,7 +1891,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -1901,7 +1901,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -1911,7 +1911,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -1921,7 +1921,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -1931,7 +1931,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -1941,7 +1941,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -1951,7 +1951,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -1961,7 +1961,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -1971,7 +1971,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -1981,7 +1981,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -1991,7 +1991,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -2001,7 +2001,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -2011,7 +2011,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -2021,7 +2021,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -2031,7 +2031,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -2041,7 +2041,7 @@
     },
     {
       "institution": "Fastings Minde",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -2051,7 +2051,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -2061,7 +2061,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -2071,7 +2071,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -2081,7 +2081,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -2091,7 +2091,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -2101,7 +2101,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -2111,7 +2111,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -2121,7 +2121,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -2131,7 +2131,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -2141,7 +2141,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -2151,7 +2151,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -2161,7 +2161,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -2171,7 +2171,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -2181,7 +2181,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -2191,7 +2191,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -2201,7 +2201,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -2211,7 +2211,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -2221,7 +2221,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -2231,7 +2231,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -2241,7 +2241,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -2251,7 +2251,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -2261,7 +2261,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -2271,7 +2271,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -2281,7 +2281,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -2291,7 +2291,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -2301,7 +2301,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -2311,7 +2311,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -2321,7 +2321,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -2331,7 +2331,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -2341,7 +2341,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -2351,7 +2351,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -2361,7 +2361,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -2371,7 +2371,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -2381,7 +2381,7 @@
     },
     {
       "institution": "Opdol",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -2391,7 +2391,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -2401,7 +2401,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -2411,7 +2411,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -2421,7 +2421,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -2431,7 +2431,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -2441,7 +2441,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -2451,7 +2451,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -2461,7 +2461,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -2471,7 +2471,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -2481,7 +2481,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -2491,7 +2491,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -2501,7 +2501,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -2511,7 +2511,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -2521,7 +2521,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -2531,7 +2531,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -2541,7 +2541,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -2551,7 +2551,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -2561,7 +2561,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -2571,7 +2571,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -2581,7 +2581,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -2591,7 +2591,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -2601,7 +2601,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -2611,7 +2611,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -2621,7 +2621,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -2631,7 +2631,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -2641,7 +2641,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -2651,7 +2651,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -2661,7 +2661,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -2671,7 +2671,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -2681,7 +2681,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -2691,7 +2691,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -2701,7 +2701,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -2711,7 +2711,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -2721,7 +2721,7 @@
     },
     {
       "institution": "Østmark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -2731,7 +2731,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -2741,7 +2741,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -2751,7 +2751,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -2761,7 +2761,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -2771,7 +2771,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -2781,7 +2781,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -2791,7 +2791,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -2801,7 +2801,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -2811,7 +2811,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -2821,7 +2821,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -2831,7 +2831,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -2841,7 +2841,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -2851,7 +2851,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -2861,7 +2861,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -2871,7 +2871,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -2881,7 +2881,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -2891,7 +2891,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -2901,7 +2901,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -2911,7 +2911,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -2921,7 +2921,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -2931,7 +2931,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -2941,7 +2941,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -2951,7 +2951,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -2961,7 +2961,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -2971,7 +2971,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -2981,7 +2981,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -2991,7 +2991,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -3001,7 +3001,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -3011,7 +3011,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -3021,7 +3021,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -3031,7 +3031,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -3041,7 +3041,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -3051,7 +3051,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -3061,7 +3061,7 @@
     },
     {
       "institution": "Oslo",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -3071,7 +3071,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -3081,7 +3081,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -3091,7 +3091,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -3101,7 +3101,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -3111,7 +3111,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -3121,7 +3121,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -3131,7 +3131,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -3141,7 +3141,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -3151,7 +3151,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -3161,7 +3161,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -3171,7 +3171,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -3181,7 +3181,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -3191,7 +3191,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -3201,7 +3201,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -3211,7 +3211,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -3221,7 +3221,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -3231,7 +3231,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -3241,7 +3241,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -3251,7 +3251,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -3261,7 +3261,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -3271,7 +3271,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -3281,7 +3281,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -3291,7 +3291,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -3301,7 +3301,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -3311,7 +3311,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -3321,7 +3321,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -3331,7 +3331,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -3341,7 +3341,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -3351,7 +3351,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -3361,7 +3361,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -3371,7 +3371,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -3381,7 +3381,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -3391,7 +3391,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -3401,7 +3401,7 @@
     },
     {
       "institution": "Dedichens",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -3411,7 +3411,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -3421,7 +3421,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -3431,7 +3431,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -3441,7 +3441,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -3451,7 +3451,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -3461,7 +3461,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -3471,7 +3471,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -3481,7 +3481,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -3491,7 +3491,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -3501,7 +3501,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -3511,7 +3511,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -3521,7 +3521,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -3531,7 +3531,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -3541,7 +3541,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -3551,7 +3551,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -3561,7 +3561,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -3571,7 +3571,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -3581,7 +3581,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -3591,7 +3591,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -3601,7 +3601,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -3611,7 +3611,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -3621,7 +3621,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -3631,7 +3631,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -3641,7 +3641,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -3651,7 +3651,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -3661,7 +3661,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -3671,7 +3671,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -3681,7 +3681,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -3691,7 +3691,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -3701,7 +3701,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -3711,7 +3711,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -3721,7 +3721,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -3731,7 +3731,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -3741,7 +3741,7 @@
     },
     {
       "institution": "Møllendal",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -3751,7 +3751,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -3761,7 +3761,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -3771,7 +3771,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -3781,7 +3781,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -3791,7 +3791,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -3801,7 +3801,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -3811,7 +3811,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -3821,7 +3821,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -3831,7 +3831,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -3841,7 +3841,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -3851,7 +3851,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -3861,7 +3861,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -3871,7 +3871,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -3881,7 +3881,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -3891,7 +3891,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -3901,7 +3901,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -3911,7 +3911,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -3921,7 +3921,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -3931,7 +3931,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -3941,7 +3941,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -3951,7 +3951,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -3961,7 +3961,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -3971,7 +3971,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -3981,7 +3981,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -3991,7 +3991,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -4001,7 +4001,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -4011,7 +4011,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -4021,7 +4021,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -4031,7 +4031,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -4041,7 +4041,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -4051,7 +4051,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -4061,7 +4061,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -4071,7 +4071,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -4081,7 +4081,7 @@
     },
     {
       "institution": "Kriminal-asylet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -4091,7 +4091,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -4101,7 +4101,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -4111,7 +4111,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -4121,7 +4121,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -4131,7 +4131,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -4141,7 +4141,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -4151,7 +4151,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -4161,7 +4161,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -4171,7 +4171,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -4181,7 +4181,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -4191,7 +4191,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -4201,7 +4201,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -4211,7 +4211,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -4221,7 +4221,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -4231,7 +4231,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -4241,7 +4241,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -4251,7 +4251,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -4261,7 +4261,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -4271,7 +4271,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -4281,7 +4281,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -4291,7 +4291,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -4301,7 +4301,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -4311,7 +4311,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -4321,7 +4321,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -4331,7 +4331,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -4341,7 +4341,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -4351,7 +4351,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -4361,7 +4361,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -4371,7 +4371,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -4381,7 +4381,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -4391,7 +4391,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -4401,7 +4401,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -4411,7 +4411,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -4421,7 +4421,7 @@
     },
     {
       "institution": "Gaustad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -4431,7 +4431,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -4441,7 +4441,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -4451,7 +4451,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -4461,7 +4461,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -4471,7 +4471,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -4481,7 +4481,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -4491,7 +4491,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -4501,7 +4501,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -4511,7 +4511,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -4521,7 +4521,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -4531,7 +4531,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -4541,7 +4541,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -4551,7 +4551,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -4561,7 +4561,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -4571,7 +4571,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -4581,7 +4581,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -4591,7 +4591,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -4601,7 +4601,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -4611,7 +4611,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -4621,7 +4621,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -4631,7 +4631,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -4641,7 +4641,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -4651,7 +4651,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -4661,7 +4661,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -4671,7 +4671,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -4681,7 +4681,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -4691,7 +4691,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -4701,7 +4701,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -4711,7 +4711,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -4721,7 +4721,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -4731,7 +4731,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -4741,7 +4741,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -4751,7 +4751,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -4761,7 +4761,7 @@
     },
     {
       "institution": "Eg",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -4771,7 +4771,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -4781,7 +4781,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -4791,7 +4791,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -4801,7 +4801,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -4811,7 +4811,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -4821,7 +4821,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -4831,7 +4831,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -4841,7 +4841,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -4851,7 +4851,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -4861,7 +4861,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -4871,7 +4871,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -4881,7 +4881,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -4891,7 +4891,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -4901,7 +4901,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -4911,7 +4911,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -4921,7 +4921,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -4931,7 +4931,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -4941,7 +4941,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -4951,7 +4951,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -4961,7 +4961,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -4971,7 +4971,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -4981,7 +4981,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -4991,7 +4991,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -5001,7 +5001,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -5011,7 +5011,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -5021,7 +5021,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -5031,7 +5031,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -5041,7 +5041,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -5051,7 +5051,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -5061,7 +5061,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -5071,7 +5071,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -5081,7 +5081,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -5091,7 +5091,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -5101,7 +5101,7 @@
     },
     {
       "institution": "Rotvold",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -5111,7 +5111,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -5121,7 +5121,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -5131,7 +5131,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -5141,7 +5141,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -5151,7 +5151,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -5161,7 +5161,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -5171,7 +5171,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -5181,7 +5181,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -5191,7 +5191,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -5201,7 +5201,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -5211,7 +5211,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -5221,7 +5221,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -5231,7 +5231,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -5241,7 +5241,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -5251,7 +5251,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -5261,7 +5261,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -5271,7 +5271,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -5281,7 +5281,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -5291,7 +5291,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -5301,7 +5301,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -5311,7 +5311,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -5321,7 +5321,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -5331,7 +5331,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -5341,7 +5341,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -5351,7 +5351,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -5361,7 +5361,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -5371,7 +5371,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -5381,7 +5381,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -5391,7 +5391,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -5401,7 +5401,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -5411,7 +5411,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -5421,7 +5421,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -5431,7 +5431,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -5441,7 +5441,7 @@
     },
     {
       "institution": "Ronvik",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -5451,7 +5451,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -5461,7 +5461,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -5471,7 +5471,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -5481,7 +5481,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -5491,7 +5491,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -5501,7 +5501,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -5511,7 +5511,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -5521,7 +5521,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -5531,7 +5531,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -5541,7 +5541,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -5551,7 +5551,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -5561,7 +5561,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -5571,7 +5571,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -5581,7 +5581,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -5591,7 +5591,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -5601,7 +5601,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -5611,7 +5611,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -5621,7 +5621,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -5631,7 +5631,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -5641,7 +5641,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -5651,7 +5651,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -5661,7 +5661,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -5671,7 +5671,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -5681,7 +5681,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -5691,7 +5691,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -5701,7 +5701,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -5711,7 +5711,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -5721,7 +5721,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -5731,7 +5731,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -5741,7 +5741,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -5751,7 +5751,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -5761,7 +5761,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -5771,7 +5771,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -5781,7 +5781,7 @@
     },
     {
       "institution": "Dikemark",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -5791,7 +5791,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -5801,7 +5801,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -5811,7 +5811,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -5821,7 +5821,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -5831,7 +5831,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -5841,7 +5841,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -5851,7 +5851,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -5861,7 +5861,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -5871,7 +5871,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -5881,7 +5881,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -5891,7 +5891,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -5901,7 +5901,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -5911,7 +5911,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -5921,7 +5921,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -5931,7 +5931,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -5941,7 +5941,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -5951,7 +5951,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -5961,7 +5961,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -5971,7 +5971,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -5981,7 +5981,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -5991,7 +5991,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -6001,7 +6001,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -6011,7 +6011,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -6021,7 +6021,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -6031,7 +6031,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -6041,7 +6041,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -6051,7 +6051,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -6061,7 +6061,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -6071,7 +6071,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -6081,7 +6081,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -6091,7 +6091,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -6101,7 +6101,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -6111,7 +6111,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -6121,7 +6121,7 @@
     },
     {
       "institution": "Blakstad",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -6131,7 +6131,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -6141,7 +6141,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -6151,7 +6151,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -6161,7 +6161,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -6171,7 +6171,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -6181,7 +6181,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -6191,7 +6191,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -6201,7 +6201,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -6211,7 +6211,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -6221,7 +6221,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -6231,7 +6231,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -6241,7 +6241,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -6251,7 +6251,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -6261,7 +6261,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -6271,7 +6271,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -6281,7 +6281,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -6291,7 +6291,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -6301,7 +6301,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -6311,7 +6311,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -6321,7 +6321,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -6331,7 +6331,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -6341,7 +6341,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -6351,7 +6351,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -6361,7 +6361,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -6371,7 +6371,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -6381,7 +6381,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -6391,7 +6391,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -6401,7 +6401,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -6411,7 +6411,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -6421,7 +6421,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -6431,7 +6431,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -6441,7 +6441,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -6451,7 +6451,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -6461,7 +6461,7 @@
     },
     {
       "institution": "Veum",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -6471,7 +6471,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -6481,7 +6481,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -6491,7 +6491,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -6501,7 +6501,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -6511,7 +6511,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -6521,7 +6521,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -6531,7 +6531,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -6541,7 +6541,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -6551,7 +6551,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -6561,7 +6561,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -6571,7 +6571,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -6581,7 +6581,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -6591,7 +6591,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -6601,7 +6601,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -6611,7 +6611,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -6621,7 +6621,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -6631,7 +6631,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -6641,7 +6641,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -6651,7 +6651,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -6661,7 +6661,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -6671,7 +6671,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -6681,7 +6681,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -6691,7 +6691,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -6701,7 +6701,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -6711,7 +6711,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -6721,7 +6721,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -6731,7 +6731,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -6741,7 +6741,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -6751,7 +6751,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -6761,7 +6761,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -6771,7 +6771,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -6781,7 +6781,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -6791,7 +6791,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -6801,7 +6801,7 @@
     },
     {
       "institution": "Sanderud",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -6811,7 +6811,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -6821,7 +6821,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -6831,7 +6831,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -6841,7 +6841,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -6851,7 +6851,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -6861,7 +6861,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -6871,7 +6871,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -6881,7 +6881,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -6891,7 +6891,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -6901,7 +6901,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -6911,7 +6911,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -6921,7 +6921,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -6931,7 +6931,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -6941,7 +6941,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -6951,7 +6951,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -6961,7 +6961,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -6971,7 +6971,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -6981,7 +6981,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -6991,7 +6991,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -7001,7 +7001,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -7011,7 +7011,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -7021,7 +7021,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -7031,7 +7031,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -7041,7 +7041,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -7051,7 +7051,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -7061,7 +7061,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -7071,7 +7071,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -7081,7 +7081,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -7091,7 +7091,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -7101,7 +7101,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -7111,7 +7111,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -7121,7 +7121,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -7131,7 +7131,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -7141,7 +7141,7 @@
     },
     {
       "institution": "Prestsaeter",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {
@@ -7151,7 +7151,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Md.",
       "cell_data": {
@@ -7161,7 +7161,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Md.",
       "cell_data": {
@@ -7171,7 +7171,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
@@ -7181,7 +7181,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
@@ -7191,7 +7191,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Md.",
       "cell_data": {
@@ -7201,7 +7201,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Md.",
       "cell_data": {
@@ -7211,7 +7211,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Md.",
       "cell_data": {
@@ -7221,7 +7221,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Md.",
       "cell_data": {
@@ -7231,7 +7231,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Md.",
       "cell_data": {
@@ -7241,7 +7241,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Md.",
       "cell_data": {
@@ -7251,7 +7251,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Md.",
       "cell_data": {
@@ -7261,7 +7261,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Md.",
       "cell_data": {
@@ -7271,7 +7271,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
@@ -7281,7 +7281,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Md.",
       "cell_data": {
@@ -7291,7 +7291,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Md.",
       "cell_data": {
@@ -7301,7 +7301,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Md.",
       "cell_data": {
@@ -7311,7 +7311,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Md.",
       "cell_data": {
@@ -7321,7 +7321,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Melancholia.",
       "sex": "Kv.",
       "cell_data": {
@@ -7331,7 +7331,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Mania....",
       "sex": "Kv.",
       "cell_data": {
@@ -7341,7 +7341,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
@@ -7351,7 +7351,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
@@ -7361,7 +7361,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paranoia...",
       "sex": "Kv.",
       "cell_data": {
@@ -7371,7 +7371,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica.",
       "sex": "Kv.",
       "cell_data": {
@@ -7381,7 +7381,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - epileptica",
       "sex": "Kv.",
       "cell_data": {
@@ -7391,7 +7391,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hysterica",
       "sex": "Kv.",
       "cell_data": {
@@ -7401,7 +7401,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
@@ -7411,7 +7411,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - degenerativa..",
       "sex": "Kv.",
       "cell_data": {
@@ -7421,7 +7421,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Insania periodica - neurasthenica.",
       "sex": "Kv.",
       "cell_data": {
@@ -7431,7 +7431,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Alcoholismus.",
       "sex": "Kv.",
       "cell_data": {
@@ -7441,7 +7441,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
@@ -7451,7 +7451,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Vitia org. cerebri",
       "sex": "Kv.",
       "cell_data": {
@@ -7461,7 +7461,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Idiotia (imbecillitas)",
       "sex": "Kv.",
       "cell_data": {
@@ -7471,7 +7471,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Annen sinnssygdom",
       "sex": "Kv.",
       "cell_data": {
@@ -7481,7 +7481,7 @@
     },
     {
       "institution": "Reitgjerdet",
-      "category": "Tabel II (forts). 1922.",
+      "category": "Tabel II (forts). 1923.",
       "patient_status": "Til observation...",
       "sex": "Kv.",
       "cell_data": {

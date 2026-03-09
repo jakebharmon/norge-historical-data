@@ -4,9 +4,39 @@
     "year": "1874"
   },
   "dimensions": {
-    "institutions": ["Gaustad", "Kristiania", "Oslo", "Kristiansand", "Stavanger", "Bergen", "Rosenbergs", "Mollendal", "Trondhjem", "Rotvold", "Tilsammen"],
-    "diagnoses": ["Melancholia", "Melancholia - cum stupore (Stupiditas)", "Mania", "Monomania", "Delirium tremens", "Dementia", "Idiotismus acquisitus", "Idiotismus - congenitus", "Epilepsia", "Paralysis generalis", "Hemiplegia", "Hypochondria", "Til Observation"],
-    "sex": ["Md.", "Kv.", "Tils."]
+    "institutions": [
+      "Gaustad",
+      "Kristiania",
+      "Oslo",
+      "Kristiansand",
+      "Stavanger",
+      "Bergen",
+      "Rosenbergs",
+      "Mollendal",
+      "Trondhjem",
+      "Rotvold",
+      "Tilsammen"
+    ],
+    "diagnoses": [
+      "Melancholia",
+      "Melancholia - cum stupore (Stupiditas)",
+      "Mania",
+      "Monomania",
+      "Delirium tremens",
+      "Dementia",
+      "Idiotismus acquisitus",
+      "Idiotismus - congenitus",
+      "Epilepsia",
+      "Paralysis generalis",
+      "Hemiplegia",
+      "Hypochondria",
+      "Til Observation"
+    ],
+    "sex": [
+      "Md.",
+      "Kv.",
+      "Tils."
+    ]
   },
   "data_skeleton": [
     {
@@ -16,7 +46,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 35,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -26,7 +56,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -36,7 +66,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 40,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -45,8 +75,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -55,8 +85,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -66,7 +96,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 21,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -75,8 +105,8 @@
       "patient_status": "Idiotismus acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -86,7 +116,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -96,7 +126,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -106,7 +136,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -115,8 +145,8 @@
       "patient_status": "Hemiplegia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -125,8 +155,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -136,7 +166,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -146,7 +176,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 40,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -156,7 +186,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -166,7 +196,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 42,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -175,8 +205,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -185,8 +215,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -196,7 +226,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 32,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -205,8 +235,8 @@
       "patient_status": "Idiotismus acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -215,8 +245,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -225,8 +255,8 @@
       "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -236,7 +266,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -246,7 +276,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -255,8 +285,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -265,138 +295,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 75,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Mania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 82,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Monomania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Delirium tremens",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Dementia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 53,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus acquisitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Epilepsia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 9,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hemiplegia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hypochondria",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Til Observation",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -406,7 +306,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 8,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -415,8 +315,8 @@
       "patient_status": "Melancholia - cum stupore (Stupiditas)",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -426,7 +326,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 8,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -435,8 +335,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -445,8 +345,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -456,7 +356,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -466,7 +366,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -476,7 +376,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -486,7 +386,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -496,7 +396,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -506,7 +406,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -515,8 +415,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -525,8 +425,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -536,7 +436,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 15,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -545,8 +445,8 @@
       "patient_status": "Melancholia - cum stupore (Stupiditas)",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -556,7 +456,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -565,8 +465,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -575,8 +475,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -586,7 +486,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -595,8 +495,8 @@
       "patient_status": "Idiotismus acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -605,8 +505,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -616,7 +516,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -625,8 +525,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -635,8 +535,8 @@
       "patient_status": "Hemiplegia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -645,8 +545,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -655,138 +555,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 23,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Mania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 11,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Monomania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Delirium tremens",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Dementia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 7,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus acquisitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Epilepsia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hemiplegia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hypochondria",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Til Observation",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -795,8 +565,8 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -805,8 +575,8 @@
       "patient_status": "Melancholia - cum stupore (Stupiditas)",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -815,8 +585,8 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -825,8 +595,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -835,8 +605,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -845,8 +615,8 @@
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -855,8 +625,8 @@
       "patient_status": "Idiotismus acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -865,8 +635,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -875,8 +645,8 @@
       "patient_status": "Epilepsia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -885,8 +655,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -895,8 +665,8 @@
       "patient_status": "Hemiplegia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -905,8 +675,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -915,8 +685,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -926,7 +696,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -935,8 +705,8 @@
       "patient_status": "Melancholia - cum stupore (Stupiditas)",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -946,7 +716,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -955,8 +725,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -965,8 +735,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -976,7 +746,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -985,8 +755,8 @@
       "patient_status": "Idiotismus acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -995,8 +765,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1005,8 +775,8 @@
       "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1015,8 +785,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1025,8 +795,8 @@
       "patient_status": "Hemiplegia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1035,8 +805,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1045,138 +815,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Mania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Monomania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Delirium tremens",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Dementia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus acquisitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Epilepsia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hemiplegia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hypochondria",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Til Observation",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1186,7 +826,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1195,8 +835,8 @@
       "patient_status": "Melancholia - cum stupore (Stupiditas)",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1206,7 +846,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1215,8 +855,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1226,7 +866,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1236,7 +876,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1245,8 +885,8 @@
       "patient_status": "Idiotismus acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1255,8 +895,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1265,8 +905,8 @@
       "patient_status": "Epilepsia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1275,8 +915,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1285,8 +925,8 @@
       "patient_status": "Hemiplegia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1295,8 +935,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1305,8 +945,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1316,7 +956,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1325,8 +965,8 @@
       "patient_status": "Melancholia - cum stupore (Stupiditas)",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1336,7 +976,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1345,8 +985,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1355,8 +995,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1366,7 +1006,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1375,8 +1015,8 @@
       "patient_status": "Idiotismus acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1385,8 +1025,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1395,8 +1035,8 @@
       "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1405,8 +1045,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1415,8 +1055,8 @@
       "patient_status": "Hemiplegia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1425,8 +1065,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1435,138 +1075,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Mania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Monomania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Delirium tremens",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Dementia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus acquisitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Epilepsia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hemiplegia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hypochondria",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Til Observation",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1575,8 +1085,8 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1585,8 +1095,8 @@
       "patient_status": "Melancholia - cum stupore (Stupiditas)",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1595,8 +1105,8 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1605,8 +1115,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1616,7 +1126,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1625,8 +1135,8 @@
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1635,8 +1145,8 @@
       "patient_status": "Idiotismus acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1645,8 +1155,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1655,8 +1165,8 @@
       "patient_status": "Epilepsia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1665,8 +1175,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1675,8 +1185,8 @@
       "patient_status": "Hemiplegia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1685,8 +1195,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1695,8 +1205,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1706,7 +1216,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1715,8 +1225,8 @@
       "patient_status": "Melancholia - cum stupore (Stupiditas)",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1726,7 +1236,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1735,8 +1245,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1745,8 +1255,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1755,8 +1265,8 @@
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1765,8 +1275,8 @@
       "patient_status": "Idiotismus acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1775,8 +1285,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1786,7 +1296,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1795,8 +1305,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1805,8 +1315,8 @@
       "patient_status": "Hemiplegia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1815,8 +1325,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1826,137 +1336,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Mania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Monomania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Delirium tremens",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Dementia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus acquisitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Epilepsia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hemiplegia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hypochondria",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Til Observation",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1966,7 +1346,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1975,8 +1355,8 @@
       "patient_status": "Melancholia - cum stupore (Stupiditas)",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1986,7 +1366,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1995,8 +1375,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2006,7 +1386,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2016,7 +1396,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 8,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2025,8 +1405,8 @@
       "patient_status": "Idiotismus acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2035,8 +1415,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2045,8 +1425,8 @@
       "patient_status": "Epilepsia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2055,8 +1435,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2065,8 +1445,8 @@
       "patient_status": "Hemiplegia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2075,8 +1455,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2085,8 +1465,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2096,7 +1476,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 9,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2105,8 +1485,8 @@
       "patient_status": "Melancholia - cum stupore (Stupiditas)",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2116,7 +1496,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 8,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2125,8 +1505,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2135,8 +1515,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2146,7 +1526,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2155,8 +1535,8 @@
       "patient_status": "Idiotismus acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2165,8 +1545,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2175,8 +1555,8 @@
       "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2185,8 +1565,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2195,8 +1575,8 @@
       "patient_status": "Hemiplegia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2205,8 +1585,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2215,138 +1595,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 14,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Mania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 11,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Monomania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Delirium tremens",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Dementia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 12,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus acquisitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Epilepsia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hemiplegia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hypochondria",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Til Observation",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2356,7 +1606,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 11,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2365,8 +1615,8 @@
       "patient_status": "Melancholia - cum stupore (Stupiditas)",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2376,7 +1626,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 12,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2385,8 +1635,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2395,8 +1645,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2406,7 +1656,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 11,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2415,8 +1665,8 @@
       "patient_status": "Idiotismus acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2425,8 +1675,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2435,8 +1685,8 @@
       "patient_status": "Epilepsia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2445,8 +1695,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2455,8 +1705,8 @@
       "patient_status": "Hemiplegia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2465,8 +1715,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2475,8 +1725,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2486,7 +1736,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2495,8 +1745,8 @@
       "patient_status": "Melancholia - cum stupore (Stupiditas)",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2506,7 +1756,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2515,8 +1765,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2525,8 +1775,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2536,7 +1786,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2545,8 +1795,8 @@
       "patient_status": "Idiotismus acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2555,8 +1805,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2565,8 +1815,8 @@
       "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2575,8 +1825,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2585,8 +1835,8 @@
       "patient_status": "Hemiplegia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2595,8 +1845,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2605,138 +1855,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 15,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Mania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 16,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Monomania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Delirium tremens",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Dementia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 15,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus acquisitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Epilepsia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hemiplegia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hypochondria",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Til Observation",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2746,7 +1866,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2755,8 +1875,8 @@
       "patient_status": "Melancholia - cum stupore (Stupiditas)",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2766,7 +1886,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2775,8 +1895,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2785,8 +1905,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2796,7 +1916,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2805,8 +1925,8 @@
       "patient_status": "Idiotismus acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2815,8 +1935,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2826,7 +1946,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2835,8 +1955,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2845,8 +1965,8 @@
       "patient_status": "Hemiplegia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2855,8 +1975,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2865,8 +1985,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2876,7 +1996,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 9,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2885,8 +2005,8 @@
       "patient_status": "Melancholia - cum stupore (Stupiditas)",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2896,7 +2016,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2905,8 +2025,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2915,8 +2035,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2926,7 +2046,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2935,8 +2055,8 @@
       "patient_status": "Idiotismus acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2945,8 +2065,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2955,8 +2075,8 @@
       "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2965,8 +2085,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2975,8 +2095,8 @@
       "patient_status": "Hemiplegia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2985,8 +2105,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2995,138 +2115,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 12,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Mania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 7,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Monomania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Delirium tremens",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Dementia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 8,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus acquisitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Epilepsia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hemiplegia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hypochondria",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Til Observation",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3136,7 +2126,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3145,8 +2135,8 @@
       "patient_status": "Melancholia - cum stupore (Stupiditas)",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3155,8 +2145,8 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3165,8 +2155,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3175,8 +2165,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3186,7 +2176,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3195,8 +2185,8 @@
       "patient_status": "Idiotismus acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3206,7 +2196,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3216,7 +2206,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3225,8 +2215,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3235,8 +2225,8 @@
       "patient_status": "Hemiplegia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3245,8 +2235,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3255,8 +2245,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3266,7 +2256,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 8,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3275,8 +2265,8 @@
       "patient_status": "Melancholia - cum stupore (Stupiditas)",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3286,7 +2276,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3295,8 +2285,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3305,8 +2295,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3316,7 +2306,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3326,7 +2316,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3336,7 +2326,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3345,8 +2335,8 @@
       "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3355,8 +2345,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3365,8 +2355,8 @@
       "patient_status": "Hemiplegia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3375,8 +2365,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3385,138 +2375,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 9,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Mania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Monomania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Delirium tremens",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Dementia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 5,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus acquisitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Epilepsia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hemiplegia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hypochondria",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Til Observation",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3526,7 +2386,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 32,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3535,8 +2395,8 @@
       "patient_status": "Melancholia - cum stupore (Stupiditas)",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3546,7 +2406,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 19,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3556,7 +2416,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3565,8 +2425,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3576,7 +2436,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3585,8 +2445,8 @@
       "patient_status": "Idiotismus acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3596,7 +2456,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3606,7 +2466,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3615,8 +2475,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3625,8 +2485,8 @@
       "patient_status": "Hemiplegia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3636,7 +2496,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3645,8 +2505,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3656,7 +2516,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 22,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3665,8 +2525,8 @@
       "patient_status": "Melancholia - cum stupore (Stupiditas)",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3676,7 +2536,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 12,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3685,8 +2545,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3695,8 +2555,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3706,7 +2566,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3715,8 +2575,8 @@
       "patient_status": "Idiotismus acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3726,7 +2586,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3736,7 +2596,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3746,7 +2606,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3755,8 +2615,8 @@
       "patient_status": "Hemiplegia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3765,8 +2625,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3776,527 +2636,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 54,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Mania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 31,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Monomania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Delirium tremens",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Dementia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 11,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus acquisitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Epilepsia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hemiplegia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hypochondria",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Til Observation",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 97,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 88,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Monomania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Delirium tremens",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 7,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 57,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus acquisitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 6,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Epilepsia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 11,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 6,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hemiplegia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hypochondria",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 110,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 78,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Monomania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Delirium tremens",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 61,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus acquisitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Epilepsia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 6,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hemiplegia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hypochondria",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 207,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Mania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 166,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Monomania",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Delirium tremens",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 7,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Dementia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 118,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus acquisitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 9,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Epilepsia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 17,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 9,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hemiplegia",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Hypochondria",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Tilsammen",
-      "category": "Indkomne i 1874.",
-      "patient_status": "Til Observation",
-      "sex": "Tils.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     }
   ]
