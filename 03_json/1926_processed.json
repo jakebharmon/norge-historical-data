@@ -1,0 +1,6453 @@
+{
+  "metadata": {
+    "title": "Tabell 3. Innkomne patienter i året",
+    "year": "1926"
+  },
+  "dimensions": {
+    "institutions": ["Gaustad", "Eg", "Rotvold", "Rønvik", "Reitgjerdet", "Kriminalasylet", "Dikemark", "Veum", "Blakstad", "Sanderud", "Presteseter", "Lier", "Faret", "Kristiansands", "Dale", "Valen", "Neevengården", "Rosenberg", "Opdøl", "Østmarken", "Oslo hospitals", "Dedichens", "Møllendal"],
+    "diagnoses": ["Idiotia et insania ex imbecillitate.", "Insania ex constitutione.", "Insania manico-melancholica.", "Paranoia.", "Insania paranoides.", "Dementia præcox, Schizophrenia.", "Amentia.", "Insania alcoholica.", "Insania epileptica.", "Dementia senilis.", "Insania syfilogenes.", "Insania ex vitio cerebri.", "Insaniae aliae vel generis incerti.", "Til observasjon."],
+    "sex": ["Md.", "Kv."]
+  },
+  "data_skeleton": [
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 15,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 17,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 17,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 11,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 26,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 17,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 10,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 28,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": "1) Morbus nullus"
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 20,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 35,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 22,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 49,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 14,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 61,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 10,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 14,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 16,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 18,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 13,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 13,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 19,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Presteseter",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 21,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 12,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 19,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 276,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 11,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 17,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 19,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 17,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 24,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 252,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 13,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Lier",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 10,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 56,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 19,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 40,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": "2) Overfort til dementia praecox"
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 31,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 20,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 18,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 33,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 22,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 15,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengården",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 11,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 10,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 22,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 46,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdøl",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 16,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 21,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 28,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 27,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo hospitals",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 10,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Idiotia et insania ex imbecillitate.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex constitutione.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania manico-melancholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Paranoia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania paranoides.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia præcox, Schizophrenia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Amentia.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania alcoholica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Dementia senilis.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania syfilogenes.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insania ex vitio cerebri.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Insaniae aliae vel generis incerti.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkomne patienter i året",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    }
+  ]
+}

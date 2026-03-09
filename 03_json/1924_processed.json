@@ -1,0 +1,7053 @@
+{
+  "metadata": {
+    "title": "Tabell 3. Innkommet. 1924.",
+    "year": "1924"
+  },
+  "dimensions": {
+    "institutions": ["Gaustad", "Eg", "Rotvold", "Rønvik", "Reitgjerdet", "Dikemark", "Blakstad", "Veum", "Sanderud", "Prestsæter", "Faret", "Kristiansands", "Dale", "Valen", "Neevengaarden", "Rosenberg", "Opdel", "Østmarken", "Oslo", "Dedichens", "Møllendal", "Kriminalasylet"],
+    "diagnoses": ["Melancholia", "Mania", "Amentia", "Dementia", "Paranoia", "Insania periodica", "Insania periodica - epileptica", "Insania periodica - hysterica", "Insania periodica - hypochondrica", "Insania periodica - degenerativa", "Insania periodica - neurasthenica", "Alcoholismus", "Paralysis generalis", "Vitia org. cerebri", "Idiotia (imbecillitas)", "Til observasjon."],
+    "sex": ["Md.", "Kv."]
+  },
+  "data_skeleton": [
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 30,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 12,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 38,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 24,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 10,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 19,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 12,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 12,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 31,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 12,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 34,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 18,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 16,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 22,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Reitgjerdet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 71,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 86,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 10,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 44,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 17,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 21,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 30,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 30,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 18,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 16,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 12,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Faret",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansands",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 18,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 13,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 18,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 20,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 32,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 31,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 12,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 12,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": "1) Senere overfort til dementia"
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdel",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 13,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 23,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 18,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 22,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Østmarken",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 17,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 11,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 13,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 16,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 16,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Insania periodica - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabell 3. Innkommet. 1924.",
+      "patient_status": "Til observasjon.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    }
+  ]
+}

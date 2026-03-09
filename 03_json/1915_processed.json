@@ -1,0 +1,6733 @@
+{
+  "metadata": {
+    "title": "Tabel V. Indkommet i 1915.",
+    "year": "1915"
+  },
+  "dimensions": {
+    "institutions": ["Gaustad", "Eg", "Rotvold", "Rønvik", "Dikemark", "Blakstad", "Veum", "Sanderud", "Prestsæter", "Bratsberg", "Kristiansand", "Dale", "Valen", "Neevengarden", "Rosenbergs", "Opdol", "Trondhjem", "Oslo", "Dedichens", "Mollendal", "Kriminalasylet"],
+    "diagnoses": ["Melancholia,", "Mania", "Amentia", "Dementia", "Paranoia...", "Insania periodica", "Insania periodica - epileptica.", "Insania periodica - hysterica", "Insania periodica - hypochondrica", "Insania periodica - degenerativa..", "Insania periodica - neurasthenica.", "Alcoholismus", "Paralysis generalis", "Vitia org. cerebri", "Idiotia (imbecillitas)", "Til observation."],
+    "sex": ["Md.", "Kv."]
+  },
+  "data_skeleton": [
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 11,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 34,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 14,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 11,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 46,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 20,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 10,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 10,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 27,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 20,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 11,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 26,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 35,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 10,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 22,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 37,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 47,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 12,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 11,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 41,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 11,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dikemark",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 28,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 14,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 26,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Veum",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 16,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 17,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 10,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Sanderud",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 11,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 12,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Prestsæter",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 16,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 10,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 21,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 12,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Bratsberg",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 20,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 12,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dale",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 13,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 11,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Valen",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 25,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 10,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 26,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Neevengarden",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 29,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 12,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Opdol",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": "1) Derav 1 dem. senil."
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 13,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Melancholia,",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paranoia...",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - epileptica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - degenerativa..",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Insania periodica - neurasthenica.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Vitia org. cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Idiotia (imbecillitas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    },
+    {
+      "institution": "Kriminalasylet",
+      "category": "Tabel V. Indkommet i 1915.",
+      "patient_status": "Til observation.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": null,
+        "footnote_marker": null
+      }
+    }
+  ]
+}
