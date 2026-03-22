@@ -4,9 +4,39 @@
     "year": "1886"
   },
   "dimensions": {
-    "institutions": ["Gaustad", "Christiania", "Oslo", "Christianssand", "Eg", "Stavanger", "Bergen", "Rosenbergs", "Mollendal", "Trondhjem", "Rotvold"],
-    "diagnoses": ["Melancholia", "Melancholia - cum. stup.", "Mania", "Monomania", "Delirium tremens", "Dementia", "Idiotismus - acquisitus", "Idiotismus - congenitus", "Epilepsia", "Paralysis generalis", "Hypochondria", "Hysteria", "Alcoholismus chron.", "Til Observation"],
-    "sex": ["Md.", "Kv."]
+    "institutions": [
+      "Gaustad",
+      "Christiania",
+      "Oslo",
+      "Christianssand",
+      "Eg",
+      "Stavanger",
+      "Bergen",
+      "Rosenbergs",
+      "Mollendal",
+      "Trondhjem",
+      "Rotvold"
+    ],
+    "diagnoses": [
+      "Melancholia",
+      "Melancholia - cum. stup.",
+      "Mania",
+      "Monomania",
+      "Delirium tremens",
+      "Dementia",
+      "Idiotismus - acquisitus",
+      "Idiotismus - congenitus",
+      "Epilepsia",
+      "Paralysis generalis",
+      "Hypochondria",
+      "Hysteria",
+      "Alcoholismus chron.",
+      "Til Observation"
+    ],
+    "sex": [
+      "Md.",
+      "Kv."
+    ]
   },
   "data_skeleton": [
     {
@@ -15,8 +45,8 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": 29,
-        "footnote_marker": null
+        "value": 41,
+        "footnote_marker": {}
       }
     },
     {
@@ -26,7 +56,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -35,8 +65,8 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": 38,
-        "footnote_marker": null
+        "value": 29,
+        "footnote_marker": {}
       }
     },
     {
@@ -46,7 +76,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -56,7 +86,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -65,8 +95,8 @@
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
-        "value": 21,
-        "footnote_marker": null
+        "value": 27,
+        "footnote_marker": {}
       }
     },
     {
@@ -75,8 +105,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -86,7 +116,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -95,8 +125,8 @@
       "patient_status": "Epilepsia",
       "sex": "Md.",
       "cell_data": {
-        "value": 3,
-        "footnote_marker": null
+        "value": 2,
+        "footnote_marker": {}
       }
     },
     {
@@ -105,8 +135,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": 2,
-        "footnote_marker": null
+        "value": 6,
+        "footnote_marker": {}
       }
     },
     {
@@ -116,7 +146,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -125,8 +155,8 @@
       "patient_status": "Hysteria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -136,7 +166,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -146,7 +176,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -155,8 +185,8 @@
       "patient_status": "Melancholia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 38,
-        "footnote_marker": null
+        "value": 39,
+        "footnote_marker": {}
       }
     },
     {
@@ -166,7 +196,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -175,8 +205,8 @@
       "patient_status": "Mania",
       "sex": "Kv.",
       "cell_data": {
-        "value": 22,
-        "footnote_marker": null
+        "value": 28,
+        "footnote_marker": {}
       }
     },
     {
@@ -185,8 +215,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": 3,
-        "footnote_marker": null
+        "value": 7,
+        "footnote_marker": {}
       }
     },
     {
@@ -195,8 +225,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -205,8 +235,8 @@
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 11,
-        "footnote_marker": null
+        "value": 22,
+        "footnote_marker": {}
       }
     },
     {
@@ -215,8 +245,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -225,8 +255,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -235,8 +265,8 @@
       "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -245,8 +275,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -255,8 +285,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -265,8 +295,8 @@
       "patient_status": "Hysteria",
       "sex": "Kv.",
       "cell_data": {
-        "value": 4,
-        "footnote_marker": null
+        "value": 2,
+        "footnote_marker": {}
       }
     },
     {
@@ -275,8 +305,8 @@
       "patient_status": "Alcoholismus chron.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -285,8 +315,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -295,7 +325,7 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": 7,
+        "value": 10,
         "footnote_marker": "1) 1 Md indkom 2 Gange."
       }
     },
@@ -305,8 +335,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -315,8 +345,8 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -326,7 +356,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -335,8 +365,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": 11,
-        "footnote_marker": null
+        "value": 1,
+        "footnote_marker": {}
       }
     },
     {
@@ -345,8 +375,8 @@
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -355,8 +385,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -366,7 +396,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -375,8 +405,8 @@
       "patient_status": "Epilepsia",
       "sex": "Md.",
       "cell_data": {
-        "value": 2,
-        "footnote_marker": null
+        "value": 1,
+        "footnote_marker": {}
       }
     },
     {
@@ -385,8 +415,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -395,8 +425,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -405,8 +435,8 @@
       "patient_status": "Hysteria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -415,8 +445,8 @@
       "patient_status": "Alcoholismus chron.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -425,8 +455,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -435,8 +465,8 @@
       "patient_status": "Melancholia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 15,
-        "footnote_marker": null
+        "value": 12,
+        "footnote_marker": {}
       }
     },
     {
@@ -445,8 +475,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -455,8 +485,8 @@
       "patient_status": "Mania",
       "sex": "Kv.",
       "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "value": 4,
+        "footnote_marker": {}
       }
     },
     {
@@ -465,8 +495,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -475,8 +505,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -486,7 +516,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 7,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -496,7 +526,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -505,8 +535,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -516,7 +546,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -525,8 +555,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -535,8 +565,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -545,8 +575,8 @@
       "patient_status": "Hysteria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -555,8 +585,8 @@
       "patient_status": "Alcoholismus chron.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -565,8 +595,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -575,8 +605,8 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -585,8 +615,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -595,8 +625,8 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -605,8 +635,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -615,8 +645,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -625,8 +655,8 @@
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -635,8 +665,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -645,8 +675,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -655,8 +685,8 @@
       "patient_status": "Epilepsia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -665,8 +695,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -675,8 +705,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -685,8 +715,8 @@
       "patient_status": "Hysteria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -695,8 +725,8 @@
       "patient_status": "Alcoholismus chron.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -705,8 +735,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -715,8 +745,8 @@
       "patient_status": "Melancholia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 3,
-        "footnote_marker": null
+        "value": 2,
+        "footnote_marker": {}
       }
     },
     {
@@ -725,8 +755,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -735,8 +765,8 @@
       "patient_status": "Mania",
       "sex": "Kv.",
       "cell_data": {
-        "value": 3,
-        "footnote_marker": null
+        "value": 5,
+        "footnote_marker": {}
       }
     },
     {
@@ -745,8 +775,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -755,8 +785,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -765,8 +795,8 @@
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 2,
-        "footnote_marker": null
+        "value": 1,
+        "footnote_marker": {}
       }
     },
     {
@@ -775,8 +805,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -785,8 +815,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -796,7 +826,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -805,8 +835,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -815,8 +845,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -825,8 +855,8 @@
       "patient_status": "Hysteria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -835,8 +865,8 @@
       "patient_status": "Alcoholismus chron.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -845,8 +875,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -855,8 +885,8 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -865,8 +895,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -875,8 +905,8 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -885,8 +915,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -895,8 +925,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -905,8 +935,8 @@
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
-        "value": 3,
-        "footnote_marker": null
+        "value": 2,
+        "footnote_marker": {}
       }
     },
     {
@@ -915,8 +945,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -925,8 +955,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -935,8 +965,8 @@
       "patient_status": "Epilepsia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -945,8 +975,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -955,8 +985,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -965,8 +995,8 @@
       "patient_status": "Hysteria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -975,8 +1005,8 @@
       "patient_status": "Alcoholismus chron.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -985,68 +1015,68 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Christianssand",
       "category": "Tabel VI. Indkomne i 1886.",
       "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Christianssand",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia - cum. stup.",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Christianssand",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Christianssand",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Monomania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Christianssand",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Delirium tremens",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Christianssand",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Christianssand",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia - cum. stup.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Christianssand",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Christianssand",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Christianssand",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Christianssand",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
       }
     },
     {
@@ -1055,8 +1085,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1065,8 +1095,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1075,8 +1105,8 @@
       "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1085,8 +1115,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1095,8 +1125,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1105,8 +1135,8 @@
       "patient_status": "Hysteria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1115,8 +1145,8 @@
       "patient_status": "Alcoholismus chron.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1125,8 +1155,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1135,8 +1165,8 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": 18,
-        "footnote_marker": null
+        "value": 12,
+        "footnote_marker": {}
       }
     },
     {
@@ -1146,7 +1176,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1155,1758 +1185,1758 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": 16,
-        "footnote_marker": null
+        "value": 17,
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 11,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 14,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hypochondria",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hysteria",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Alcoholismus chron.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 22,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia - cum. stup.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 18,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 12,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 12,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hypochondria",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hysteria",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Alcoholismus chron.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia - cum. stup.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hypochondria",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hysteria",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Alcoholismus chron.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia - cum. stup.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hypochondria",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hysteria",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Alcoholismus chron.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia - cum. stup.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hypochondria",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hysteria",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Alcoholismus chron.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia - cum. stup.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hypochondria",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hysteria",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Alcoholismus chron.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia - cum. stup.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 11,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hypochondria",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hysteria",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Alcoholismus chron.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia - cum. stup.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hypochondria",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hysteria",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Alcoholismus chron.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia - cum. stup.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hypochondria",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hysteria",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Alcoholismus chron.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia - cum. stup.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hypochondria",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hysteria",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Alcoholismus chron.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Mollendal",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia - cum. stup.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hypochondria",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hysteria",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Alcoholismus chron.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia - cum. stup.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hypochondria",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Hysteria",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Alcoholismus chron.",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 26,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Melancholia - cum. stup.",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne i 1886.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 20,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
       "category": "Tabel VI. Indkomne i 1886.",
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
         "value": 14,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Rotvold",
       "category": "Tabel VI. Indkomne i 1886.",
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": 3,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Rotvold",
       "category": "Tabel VI. Indkomne i 1886.",
       "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 18,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Epilepsia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hypochondria",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hysteria",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Alcoholismus chron.",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 15,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia - cum. stup.",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 20,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Monomania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 9,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Delirium tremens",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 11,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Epilepsia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hypochondria",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hysteria",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Alcoholismus chron.",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia - cum. stup.",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Monomania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Delirium tremens",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Epilepsia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hypochondria",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hysteria",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Alcoholismus chron.",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia - cum. stup.",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Monomania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Delirium tremens",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Epilepsia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hypochondria",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hysteria",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Alcoholismus chron.",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia - cum. stup.",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Monomania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Delirium tremens",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Epilepsia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hypochondria",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hysteria",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Alcoholismus chron.",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia - cum. stup.",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Monomania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Delirium tremens",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Epilepsia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hypochondria",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hysteria",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Alcoholismus chron.",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 12,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia - cum. stup.",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
         "value": 13,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Monomania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Delirium tremens",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 16,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
+      "institution": "Rotvold",
       "category": "Tabel VI. Indkomne i 1886.",
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Rosenbergs",
+      "institution": "Rotvold",
       "category": "Tabel VI. Indkomne i 1886.",
       "patient_status": "Idiotismus - congenitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Rosenbergs",
+      "institution": "Rotvold",
       "category": "Tabel VI. Indkomne i 1886.",
       "patient_status": "Epilepsia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hypochondria",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hysteria",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Alcoholismus chron.",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 6,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia - cum. stup.",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 12,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Monomania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Delirium tremens",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 6,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Epilepsia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hypochondria",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hysteria",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Alcoholismus chron.",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia - cum. stup.",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Mollendal",
+      "institution": "Rotvold",
       "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Monomania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Delirium tremens",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Dementia",
+      "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Epilepsia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hypochondria",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hysteria",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Alcoholismus chron.",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia - cum. stup.",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 6,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Monomania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Delirium tremens",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Epilepsia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hypochondria",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hysteria",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Alcoholismus chron.",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Mollendal",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 6,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia - cum. stup.",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Monomania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Delirium tremens",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Epilepsia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hypochondria",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hysteria",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Alcoholismus chron.",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 7,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia - cum. stup.",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Monomania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Delirium tremens",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Epilepsia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hypochondria",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Hysteria",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Alcoholismus chron.",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 29,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Melancholia - cum. stup.",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 27,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Monomania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 12,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Delirium tremens",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 22,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Epilepsia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne i 1886.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2915,8 +2945,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2925,8 +2955,8 @@
       "patient_status": "Hysteria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2935,8 +2965,8 @@
       "patient_status": "Alcoholismus chron.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2955,8 +2985,8 @@
       "patient_status": "Melancholia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 35,
-        "footnote_marker": null
+        "value": 24,
+        "footnote_marker": {}
       }
     },
     {
@@ -2966,7 +2996,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2975,8 +3005,8 @@
       "patient_status": "Mania",
       "sex": "Kv.",
       "cell_data": {
-        "value": 19,
-        "footnote_marker": null
+        "value": 34,
+        "footnote_marker": {}
       }
     },
     {
@@ -2986,7 +3016,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2995,8 +3025,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3006,7 +3036,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 7,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3015,8 +3045,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3025,8 +3055,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3036,7 +3066,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3046,7 +3076,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3055,8 +3085,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3066,7 +3096,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3075,8 +3105,8 @@
       "patient_status": "Alcoholismus chron.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3085,8 +3115,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     }
   ]

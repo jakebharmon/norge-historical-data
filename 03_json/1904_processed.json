@@ -4,9 +4,44 @@
     "year": "1904"
   },
   "dimensions": {
-    "institutions": ["Gaustad", "Kristiania", "Oslo", "Dedichens", "Blakstad", "Kristiansand", "Eg", "Neevengaarden", "Rosenberg", "Møllendal", "Trondhjem", "Rotvold", "Rønvik", "Kriminalasylet"],
-    "diagnoses": ["Melancholia", "Mania", "Amentia", "Dementia", "Paranoia", "Insania - periodica", "Insania - epileptica", "Insania - hysterica", "Insania - hypochondrica", "Insania - degenerativa", "Insania - neurasthenica", "Alcoholismus", "Paralysis generalis", "Vitia organica cerebri", "Idiotia", "Til Observation"],
-    "sex": ["Md.", "Kv."]
+    "institutions": [
+      "Gaustad",
+      "Kristiania",
+      "Oslo",
+      "Dedichens",
+      "Blakstad",
+      "Kristiansand",
+      "Eg",
+      "Neevengaarden",
+      "Rosenberg",
+      "Møllendal",
+      "Trondhjem",
+      "Rotvold",
+      "Rønvik",
+      "Kriminalasylet"
+    ],
+    "diagnoses": [
+      "Melancholia",
+      "Mania",
+      "Amentia",
+      "Dementia",
+      "Paranoia",
+      "Insania - periodica",
+      "Insania - epileptica",
+      "Insania - hysterica",
+      "Insania - hypochondrica",
+      "Insania - degenerativa",
+      "Insania - neurasthenica",
+      "Alcoholismus",
+      "Paralysis generalis",
+      "Vitia organica cerebri",
+      "Idiotia",
+      "Til Observation"
+    ],
+    "sex": [
+      "Md.",
+      "Kv."
+    ]
   },
   "data_skeleton": [
     {
@@ -15,8 +50,8 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": 16,
-        "footnote_marker": null
+        "value": 11,
+        "footnote_marker": {}
       }
     },
     {
@@ -25,8 +60,8 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": 13,
-        "footnote_marker": null
+        "value": 11,
+        "footnote_marker": {}
       }
     },
     {
@@ -35,8 +70,8 @@
       "patient_status": "Amentia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -45,8 +80,8 @@
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
-        "value": 46,
-        "footnote_marker": null
+        "value": 38,
+        "footnote_marker": {}
       }
     },
     {
@@ -55,8 +90,8 @@
       "patient_status": "Paranoia",
       "sex": "Md.",
       "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "value": 2,
+        "footnote_marker": {}
       }
     },
     {
@@ -65,8 +100,8 @@
       "patient_status": "Insania - periodica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -76,7 +111,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -86,7 +121,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -95,8 +130,8 @@
       "patient_status": "Insania - hypochondrica",
       "sex": "Md.",
       "cell_data": {
-        "value": 4,
-        "footnote_marker": null
+        "value": 3,
+        "footnote_marker": {}
       }
     },
     {
@@ -105,8 +140,8 @@
       "patient_status": "Insania - degenerativa",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -115,508 +150,508 @@
       "patient_status": "Insania - neurasthenica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Gaustad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Alcoholismus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 8,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Vitia organica cerebri",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Idiotia",
       "sex": "Md.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 22,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 15,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Amentia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 23,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paranoia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - periodica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - epileptica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hysterica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 9,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hypochondrica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - degenerativa",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - neurasthenica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Alcoholismus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Gaustad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
+      "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": 4,
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Gaustad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Vitia organica cerebri",
-      "sex": "Kv.",
+      "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Gaustad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Idiotia",
-      "sex": "Kv.",
+      "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": 2,
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Gaustad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Amentia",
       "sex": "Md.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Kristiania",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 12,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paranoia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - periodica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - epileptica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hysterica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hypochondrica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - degenerativa",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 13,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - neurasthenica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Alcoholismus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Vitia organica cerebri",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Idiotia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiania",
+      "institution": "Gaustad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Melancholia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 2,
-        "footnote_marker": null
+        "value": 21,
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Kristiania",
+      "institution": "Gaustad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Mania",
       "sex": "Kv.",
       "cell_data": {
-        "value": 3,
-        "footnote_marker": null
+        "value": 14,
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Kristiania",
+      "institution": "Gaustad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Amentia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 7,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Kristiania",
+      "institution": "Gaustad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 24,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hysterica",
       "sex": "Kv.",
       "cell_data": {
         "value": 10,
-        "footnote_marker": null
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Vitia organica cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Idiotia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Kristiania",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Paranoia",
-      "sex": "Kv.",
+      "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": 1,
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Kristiania",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - periodica",
-      "sex": "Kv.",
+      "sex": "Md.",
       "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "value": 2,
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Kristiania",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - epileptica",
-      "sex": "Kv.",
+      "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Kristiania",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - hysterica",
-      "sex": "Kv.",
+      "sex": "Md.",
       "cell_data": {
-        "value": 3,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Kristiania",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - hypochondrica",
-      "sex": "Kv.",
+      "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Kristiania",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Vitia organica cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Idiotia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Melancholia",
       "sex": "Kv.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Kristiania",
       "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - neurasthenica",
+      "patient_status": "Mania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": 1,
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Kristiania",
       "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Alcoholismus",
+      "patient_status": "Amentia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": 10,
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Kristiania",
       "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paralysis generalis",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 29,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - degenerativa",
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
       }
     },
     {
@@ -625,8 +660,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -635,8 +670,8 @@
       "patient_status": "Idiotia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -645,8 +680,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -655,8 +690,8 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -665,8 +700,8 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -675,8 +710,8 @@
       "patient_status": "Amentia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -685,8 +720,8 @@
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -695,8 +730,8 @@
       "patient_status": "Paranoia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -705,8 +740,8 @@
       "patient_status": "Insania - periodica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -715,8 +750,8 @@
       "patient_status": "Insania - epileptica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -725,8 +760,8 @@
       "patient_status": "Insania - hysterica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -735,8 +770,8 @@
       "patient_status": "Insania - hypochondrica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -745,8 +780,8 @@
       "patient_status": "Insania - degenerativa",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -755,8 +790,8 @@
       "patient_status": "Insania - neurasthenica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -765,8 +800,8 @@
       "patient_status": "Alcoholismus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -775,8 +810,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -785,8 +820,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -795,8 +830,8 @@
       "patient_status": "Idiotia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -805,8 +840,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -815,8 +850,8 @@
       "patient_status": "Melancholia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -825,8 +860,8 @@
       "patient_status": "Mania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -835,8 +870,8 @@
       "patient_status": "Amentia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -846,7 +881,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -855,8 +890,8 @@
       "patient_status": "Paranoia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -865,8 +900,8 @@
       "patient_status": "Insania - periodica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -875,8 +910,8 @@
       "patient_status": "Insania - epileptica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -885,8 +920,8 @@
       "patient_status": "Insania - hysterica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -895,8 +930,8 @@
       "patient_status": "Insania - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -905,8 +940,8 @@
       "patient_status": "Insania - degenerativa",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -915,8 +950,8 @@
       "patient_status": "Insania - neurasthenica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -925,8 +960,8 @@
       "patient_status": "Alcoholismus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -935,8 +970,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -945,8 +980,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -956,7 +991,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -965,8 +1000,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -975,8 +1010,8 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "value": 4,
+        "footnote_marker": {}
       }
     },
     {
@@ -985,8 +1020,8 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "value": 3,
+        "footnote_marker": {}
       }
     },
     {
@@ -996,7 +1031,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1004,166 +1039,6 @@
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Dementia",
       "sex": "Md.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": "1) Dementia praecox."
-      }
-    },
-    {
-      "institution": "Dedichens",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paranoia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Dedichens",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - periodica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Dedichens",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - epileptica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Dedichens",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hysterica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Dedichens",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hypochondrica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Dedichens",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - degenerativa",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Dedichens",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - neurasthenica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Dedichens",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Alcoholismus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Dedichens",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Dedichens",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Vitia organica cerebri",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Dedichens",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Idiotia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Dedichens",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Dedichens",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Dedichens",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Dedichens",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Amentia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Dedichens",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
       "cell_data": {
         "value": 2,
         "footnote_marker": "1) Dementia praecox."
@@ -1173,10 +1048,170 @@
       "institution": "Dedichens",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Vitia organica cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Idiotia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Melancholia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": 6,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": "1) Dementia praecox."
+      }
+    },
+    {
+      "institution": "Dedichens",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1185,8 +1220,8 @@
       "patient_status": "Insania - periodica",
       "sex": "Kv.",
       "cell_data": {
-        "value": 7,
-        "footnote_marker": null
+        "value": 4,
+        "footnote_marker": {}
       }
     },
     {
@@ -1195,8 +1230,8 @@
       "patient_status": "Insania - epileptica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1205,8 +1240,8 @@
       "patient_status": "Insania - hysterica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1215,8 +1250,8 @@
       "patient_status": "Insania - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1235,8 +1270,8 @@
       "patient_status": "Insania - neurasthenica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1245,8 +1280,8 @@
       "patient_status": "Alcoholismus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1255,8 +1290,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1265,8 +1300,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1275,8 +1310,8 @@
       "patient_status": "Idiotia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1285,8 +1320,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1295,8 +1330,8 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1305,8 +1340,8 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1315,1458 +1350,1458 @@
       "patient_status": "Amentia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 12,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paranoia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - periodica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - epileptica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hysterica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hypochondrica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - degenerativa",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - neurasthenica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Alcoholismus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Vitia organica cerebri",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Idiotia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Amentia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 7,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paranoia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - periodica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - epileptica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hysterica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hypochondrica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - degenerativa",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - neurasthenica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Alcoholismus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Vitia organica cerebri",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Idiotia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Blakstad",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Amentia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paranoia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - periodica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - epileptica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hysterica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hypochondrica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - degenerativa",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - neurasthenica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Alcoholismus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Vitia organica cerebri",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Idiotia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Amentia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paranoia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - periodica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - epileptica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hysterica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hypochondrica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - degenerativa",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - neurasthenica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Alcoholismus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Vitia organica cerebri",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Idiotia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
         "value": 16,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 13,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Amentia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 18,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Paranoia",
       "sex": "Md.",
       "cell_data": {
-        "value": 10,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - periodica",
       "sex": "Md.",
       "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "value": 3,
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - epileptica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - hysterica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - hypochondrica",
       "sex": "Md.",
       "cell_data": {
-        "value": 2,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - degenerativa",
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - neurasthenica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Alcoholismus",
       "sex": "Md.",
       "cell_data": {
-        "value": 2,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": 2,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Vitia organica cerebri",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Idiotia",
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": 3,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Melancholia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 33,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Mania",
       "sex": "Kv.",
       "cell_data": {
-        "value": 14,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Amentia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 12,
-        "footnote_marker": null
+        "value": 3,
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 3,
-        "footnote_marker": null
+        "value": 17,
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Paranoia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Blakstad",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hysterica",
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - epileptica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hysterica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - degenerativa",
       "sex": "Kv.",
       "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - neurasthenica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Alcoholismus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Idiotia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": 1,
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Eg",
+      "institution": "Blakstad",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": 2,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Amentia",
       "sex": "Md.",
       "cell_data": {
-        "value": 19,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
-        "value": 14,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Paranoia",
       "sex": "Md.",
       "cell_data": {
-        "value": 3,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - periodica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - epileptica",
       "sex": "Md.",
       "cell_data": {
-        "value": 2,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - hysterica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - hypochondrica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - degenerativa",
       "sex": "Md.",
       "cell_data": {
-        "value": 2,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - neurasthenica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Alcoholismus",
       "sex": "Md.",
       "cell_data": {
-        "value": 2,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": 3,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Vitia organica cerebri",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Idiotia",
       "sex": "Md.",
       "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Melancholia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 13,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Mania",
       "sex": "Kv.",
       "cell_data": {
-        "value": 3,
-        "footnote_marker": null
+        "value": 1,
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Amentia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 26,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 13,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Paranoia",
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Kristiansand",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Vitia organica cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Idiotia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 12,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 17,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Vitia organica cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Idiotia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 20,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 11,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 11,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - periodica",
       "sex": "Kv.",
       "cell_data": {
         "value": 7,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Eg",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - epileptica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Eg",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - hysterica",
       "sex": "Kv.",
       "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "value": 2,
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Eg",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Eg",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - degenerativa",
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Eg",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Insania - neurasthenica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Eg",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Alcoholismus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Eg",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
-      "institution": "Neevengaarden",
+      "institution": "Eg",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Idiotia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Eg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Neevengaarden",
       "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Idiotia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Neevengaarden",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Melancholia",
       "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Amentia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 12,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paranoia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - periodica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - epileptica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hysterica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hypochondrica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - degenerativa",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - neurasthenica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Alcoholismus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Vitia organica cerebri",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Idiotia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Amentia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rosenberg",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 14,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Vitia organica cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Idiotia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 18,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Vitia organica cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Idiotia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Neevengaarden",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 11,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Vitia organica cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Idiotia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenberg",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
       }
     },
     {
@@ -2775,8 +2810,8 @@
       "patient_status": "Paranoia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 3,
-        "footnote_marker": null
+        "value": 1,
+        "footnote_marker": {}
       }
     },
     {
@@ -2785,8 +2820,8 @@
       "patient_status": "Insania - periodica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2795,8 +2830,8 @@
       "patient_status": "Insania - epileptica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2806,7 +2841,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2815,8 +2850,8 @@
       "patient_status": "Insania - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2825,8 +2860,8 @@
       "patient_status": "Insania - degenerativa",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2835,8 +2870,8 @@
       "patient_status": "Insania - neurasthenica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2845,8 +2880,8 @@
       "patient_status": "Alcoholismus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2855,8 +2890,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2865,8 +2900,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2875,8 +2910,8 @@
       "patient_status": "Idiotia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2885,8 +2920,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2895,8 +2930,8 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "value": 4,
+        "footnote_marker": {}
       }
     },
     {
@@ -2905,8 +2940,8 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "value": 4,
+        "footnote_marker": {}
       }
     },
     {
@@ -2915,8 +2950,8 @@
       "patient_status": "Amentia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2926,7 +2961,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2935,8 +2970,8 @@
       "patient_status": "Paranoia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2945,8 +2980,8 @@
       "patient_status": "Insania - periodica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2955,8 +2990,8 @@
       "patient_status": "Insania - epileptica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2965,8 +3000,8 @@
       "patient_status": "Insania - hysterica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2975,8 +3010,8 @@
       "patient_status": "Insania - hypochondrica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2986,7 +3021,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2995,8 +3030,8 @@
       "patient_status": "Insania - neurasthenica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3005,8 +3040,8 @@
       "patient_status": "Alcoholismus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3015,8 +3050,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3025,8 +3060,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3035,8 +3070,8 @@
       "patient_status": "Idiotia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3045,8 +3080,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3055,8 +3090,8 @@
       "patient_status": "Melancholia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 2,
-        "footnote_marker": null
+        "value": 4,
+        "footnote_marker": {}
       }
     },
     {
@@ -3066,7 +3101,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3075,8 +3110,8 @@
       "patient_status": "Amentia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "value": 4,
+        "footnote_marker": {}
       }
     },
     {
@@ -3086,7 +3121,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3096,7 +3131,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3106,7 +3141,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3115,8 +3150,8 @@
       "patient_status": "Insania - epileptica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3125,8 +3160,8 @@
       "patient_status": "Insania - hysterica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3135,8 +3170,8 @@
       "patient_status": "Insania - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3145,8 +3180,8 @@
       "patient_status": "Insania - degenerativa",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3155,8 +3190,8 @@
       "patient_status": "Insania - neurasthenica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3165,8 +3200,8 @@
       "patient_status": "Alcoholismus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3175,8 +3210,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3185,8 +3220,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3195,8 +3230,8 @@
       "patient_status": "Idiotia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3205,8 +3240,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3215,8 +3250,8 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3225,8 +3260,8 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3235,8 +3270,8 @@
       "patient_status": "Amentia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3245,7 +3280,7 @@
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
-        "value": 1,
+        "value": 4,
         "footnote_marker": "1) Dementia praecox."
       }
     },
@@ -3255,8 +3290,8 @@
       "patient_status": "Paranoia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3266,7 +3301,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3275,8 +3310,8 @@
       "patient_status": "Insania - epileptica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3285,8 +3320,8 @@
       "patient_status": "Insania - hysterica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3295,8 +3330,8 @@
       "patient_status": "Insania - hypochondrica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3305,8 +3340,8 @@
       "patient_status": "Insania - degenerativa",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3315,8 +3350,8 @@
       "patient_status": "Insania - neurasthenica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3325,8 +3360,8 @@
       "patient_status": "Alcoholismus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3335,8 +3370,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3345,8 +3380,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3355,8 +3390,8 @@
       "patient_status": "Idiotia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3365,8 +3400,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3376,7 +3411,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3385,8 +3420,8 @@
       "patient_status": "Mania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3395,8 +3430,8 @@
       "patient_status": "Amentia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3415,8 +3450,8 @@
       "patient_status": "Paranoia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3426,7 +3461,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3435,8 +3470,8 @@
       "patient_status": "Insania - epileptica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3445,8 +3480,8 @@
       "patient_status": "Insania - hysterica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3455,8 +3490,8 @@
       "patient_status": "Insania - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3465,8 +3500,8 @@
       "patient_status": "Insania - degenerativa",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3475,8 +3510,8 @@
       "patient_status": "Insania - neurasthenica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3485,8 +3520,8 @@
       "patient_status": "Alcoholismus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3495,8 +3530,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3505,8 +3540,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3515,8 +3550,8 @@
       "patient_status": "Idiotia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3525,368 +3560,368 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
       "institution": "Rotvold",
       "category": "Tabel VI. Indkomne. 1904.",
       "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 27,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 6,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Amentia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 5,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 31,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paranoia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 7,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - periodica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 7,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - epileptica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hysterica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hypochondrica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - degenerativa",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - neurasthenica",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Alcoholismus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Vitia organica cerebri",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Idiotia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 24,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 14,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Amentia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 11,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 30,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paranoia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - periodica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 14,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - epileptica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hysterica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - hypochondrica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - degenerativa",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Insania - neurasthenica",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Alcoholismus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Vitia organica cerebri",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Idiotia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": null,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rønvik",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 6,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rønvik",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 10,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rønvik",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Amentia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 6,
-        "footnote_marker": null
-      }
-    },
-    {
-      "institution": "Rønvik",
-      "category": "Tabel VI. Indkomne. 1904.",
-      "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
         "value": 16,
-        "footnote_marker": null
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 30,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paranoia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - periodica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - epileptica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hysterica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hypochondrica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - degenerativa",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - neurasthenica",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Alcoholismus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Vitia organica cerebri",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Idiotia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 21,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Amentia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 10,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 26,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paranoia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - periodica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 11,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - epileptica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hysterica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - hypochondrica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - degenerativa",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Insania - neurasthenica",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Alcoholismus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Vitia organica cerebri",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Idiotia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 10,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Amentia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rønvik",
+      "category": "Tabel VI. Indkomne. 1904.",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 27,
+        "footnote_marker": {}
       }
     },
     {
@@ -3895,8 +3930,8 @@
       "patient_status": "Paranoia",
       "sex": "Md.",
       "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "value": 3,
+        "footnote_marker": {}
       }
     },
     {
@@ -3905,8 +3940,8 @@
       "patient_status": "Insania - periodica",
       "sex": "Md.",
       "cell_data": {
-        "value": 2,
-        "footnote_marker": null
+        "value": 3,
+        "footnote_marker": {}
       }
     },
     {
@@ -3915,8 +3950,8 @@
       "patient_status": "Insania - epileptica",
       "sex": "Md.",
       "cell_data": {
-        "value": 2,
-        "footnote_marker": null
+        "value": 3,
+        "footnote_marker": {}
       }
     },
     {
@@ -3925,8 +3960,8 @@
       "patient_status": "Insania - hysterica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3935,8 +3970,8 @@
       "patient_status": "Insania - hypochondrica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3946,7 +3981,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3955,8 +3990,8 @@
       "patient_status": "Insania - neurasthenica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3965,8 +4000,8 @@
       "patient_status": "Alcoholismus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3975,8 +4010,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": 1,
-        "footnote_marker": null
+        "value": 3,
+        "footnote_marker": {}
       }
     },
     {
@@ -3986,7 +4021,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3996,7 +4031,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4005,8 +4040,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4015,8 +4050,8 @@
       "patient_status": "Melancholia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 7,
-        "footnote_marker": null
+        "value": 9,
+        "footnote_marker": {}
       }
     },
     {
@@ -4025,8 +4060,8 @@
       "patient_status": "Mania",
       "sex": "Kv.",
       "cell_data": {
-        "value": 9,
-        "footnote_marker": null
+        "value": 7,
+        "footnote_marker": {}
       }
     },
     {
@@ -4036,7 +4071,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 12,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4045,8 +4080,8 @@
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 17,
-        "footnote_marker": null
+        "value": 36,
+        "footnote_marker": {}
       }
     },
     {
@@ -4055,8 +4090,8 @@
       "patient_status": "Paranoia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4065,8 +4100,8 @@
       "patient_status": "Insania - periodica",
       "sex": "Kv.",
       "cell_data": {
-        "value": 5,
-        "footnote_marker": null
+        "value": 3,
+        "footnote_marker": {}
       }
     },
     {
@@ -4075,8 +4110,8 @@
       "patient_status": "Insania - epileptica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4085,8 +4120,8 @@
       "patient_status": "Insania - hysterica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4095,8 +4130,8 @@
       "patient_status": "Insania - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4105,8 +4140,8 @@
       "patient_status": "Insania - degenerativa",
       "sex": "Kv.",
       "cell_data": {
-        "value": 2,
-        "footnote_marker": null
+        "value": 1,
+        "footnote_marker": {}
       }
     },
     {
@@ -4115,8 +4150,8 @@
       "patient_status": "Insania - neurasthenica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4125,8 +4160,8 @@
       "patient_status": "Alcoholismus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4135,8 +4170,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4145,8 +4180,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4155,8 +4190,8 @@
       "patient_status": "Idiotia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4165,8 +4200,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4175,8 +4210,8 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4185,8 +4220,8 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4195,8 +4230,8 @@
       "patient_status": "Amentia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4206,7 +4241,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4215,8 +4250,8 @@
       "patient_status": "Paranoia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4225,8 +4260,8 @@
       "patient_status": "Insania - periodica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4235,8 +4270,8 @@
       "patient_status": "Insania - epileptica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4245,8 +4280,8 @@
       "patient_status": "Insania - hysterica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4255,8 +4290,8 @@
       "patient_status": "Insania - hypochondrica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4265,8 +4300,8 @@
       "patient_status": "Insania - degenerativa",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4275,8 +4310,8 @@
       "patient_status": "Insania - neurasthenica",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4285,8 +4320,8 @@
       "patient_status": "Alcoholismus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4295,8 +4330,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4305,8 +4340,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4316,7 +4351,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4325,8 +4360,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4335,8 +4370,8 @@
       "patient_status": "Melancholia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4345,8 +4380,8 @@
       "patient_status": "Mania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4355,8 +4390,8 @@
       "patient_status": "Amentia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4365,8 +4400,8 @@
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4375,8 +4410,8 @@
       "patient_status": "Paranoia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4385,8 +4420,8 @@
       "patient_status": "Insania - periodica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4395,8 +4430,8 @@
       "patient_status": "Insania - epileptica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4405,8 +4440,8 @@
       "patient_status": "Insania - hysterica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4415,8 +4450,8 @@
       "patient_status": "Insania - hypochondrica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4425,8 +4460,8 @@
       "patient_status": "Insania - degenerativa",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4435,8 +4470,8 @@
       "patient_status": "Insania - neurasthenica",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4445,8 +4480,8 @@
       "patient_status": "Alcoholismus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4455,8 +4490,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4465,8 +4500,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4475,8 +4510,8 @@
       "patient_status": "Idiotia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4485,8 +4520,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     }
   ]

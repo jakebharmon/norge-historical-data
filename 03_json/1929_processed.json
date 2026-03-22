@@ -4,9 +4,51 @@
     "year": "1929"
   },
   "dimensions": {
-    "institutions": ["Gaustad", "Eg", "Rotvold", "Rønvik", "Reitgjerdet", "Kriminalasylet", "Dikemark", "Veum", "Blakstad", "Sanderud", "Presteseter", "Lier", "Faret", "Kristiansands", "Dale", "Valen", "Neevengården", "Rosenberg", "Opdøl", "Østmarken", "Oslo hospitals", "Dedichens", "Møllendal"],
-    "diagnoses": ["Idiotia et insania ex imbecillitate.", "Insania ex constitutione.", "Insania manico-melancholica.", "Paranoia.", "Insania paranoides.", "Dementia præcox, Schizophrenia.", "Amentia.", "Insania alcoholica.", "Insania epileptica.", "Dementia senilis.", "Insania syfilogenes.", "Insania ex vitio cerebri.", "Insaniae aliae vel generis incerti.", "Til observasjon."],
-    "sex": ["Md.", "Kv."]
+    "institutions": [
+      "Gaustad",
+      "Eg",
+      "Rotvold",
+      "Rønvik",
+      "Reitgjerdet",
+      "Kriminalasylet",
+      "Dikemark",
+      "Veum",
+      "Blakstad",
+      "Sanderud",
+      "Presteseter",
+      "Lier",
+      "Faret",
+      "Kristiansands",
+      "Dale",
+      "Valen",
+      "Neevengården",
+      "Rosenberg",
+      "Opdøl",
+      "Østmarken",
+      "Oslo hospitals",
+      "Dedichens",
+      "Møllendal"
+    ],
+    "diagnoses": [
+      "Idiotia et insania ex imbecillitate.",
+      "Insania ex constitutione.",
+      "Insania manico-melancholica.",
+      "Paranoia.",
+      "Insania paranoides.",
+      "Dementia præcox, Schizophrenia.",
+      "Amentia.",
+      "Insania alcoholica.",
+      "Insania epileptica.",
+      "Dementia senilis.",
+      "Insania syfilogenes.",
+      "Insania ex vitio cerebri.",
+      "Insaniae aliae vel generis incerti.",
+      "Til observasjon."
+    ],
+    "sex": [
+      "Md.",
+      "Kv."
+    ]
   },
   "data_skeleton": [
     {
@@ -16,7 +58,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -26,7 +68,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -36,7 +78,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 12,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -45,8 +87,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -56,7 +98,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 19,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -66,7 +108,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 52,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -75,8 +117,8 @@
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -86,7 +128,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -95,8 +137,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -106,7 +148,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -116,7 +158,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 16,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -126,7 +168,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -135,8 +177,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -146,7 +188,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 9,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -156,7 +198,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -166,7 +208,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 11,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -176,7 +218,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -185,8 +227,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -196,7 +238,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 7,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -206,7 +248,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 29,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -215,8 +257,8 @@
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -226,7 +268,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -236,7 +278,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -246,7 +288,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -256,7 +298,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -266,7 +308,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -276,7 +318,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -285,8 +327,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -296,7 +338,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -305,8 +347,8 @@
       "patient_status": "Insania ex constitutione.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -316,7 +358,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 7,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -326,7 +368,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -336,7 +378,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -346,7 +388,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 25,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -356,7 +398,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -365,8 +407,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -375,8 +417,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -386,7 +428,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -396,7 +438,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -405,8 +447,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -415,8 +457,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -425,8 +467,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -436,7 +478,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -446,7 +488,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -456,7 +498,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 12,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -465,8 +507,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -476,7 +518,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -486,7 +528,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 17,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -495,8 +537,8 @@
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -505,8 +547,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -515,8 +557,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -525,8 +567,8 @@
       "patient_status": "Dementia senilis.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -535,8 +577,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -545,8 +587,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -555,8 +597,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -565,8 +607,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -576,7 +618,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 7,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -585,8 +627,8 @@
       "patient_status": "Insania ex constitutione.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -596,7 +638,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 11,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -605,8 +647,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -616,7 +658,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 7,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -626,7 +668,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 33,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -635,8 +677,8 @@
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -646,7 +688,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -655,8 +697,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -666,7 +708,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -676,7 +718,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -685,8 +727,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -696,7 +738,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -706,7 +748,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -716,7 +758,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -726,7 +768,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -736,7 +778,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 13,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -745,8 +787,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -756,7 +798,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -766,7 +808,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 27,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -776,7 +818,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -785,8 +827,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -795,8 +837,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -806,7 +848,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -816,7 +858,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -825,8 +867,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -835,8 +877,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -845,8 +887,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -856,7 +898,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -866,7 +908,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -876,7 +918,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -885,8 +927,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -895,8 +937,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -906,7 +948,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 16,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -916,7 +958,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -925,8 +967,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -935,8 +977,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -945,8 +987,8 @@
       "patient_status": "Dementia senilis.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -955,8 +997,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -965,8 +1007,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -975,8 +1017,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -986,7 +1028,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -996,7 +1038,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1006,7 +1048,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1016,7 +1058,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1025,8 +1067,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1035,8 +1077,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1046,7 +1088,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 10,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1056,7 +1098,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1065,8 +1107,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1075,8 +1117,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1085,8 +1127,8 @@
       "patient_status": "Dementia senilis.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1095,8 +1137,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1105,8 +1147,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1115,8 +1157,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1126,7 +1168,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1136,7 +1178,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 7,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1146,7 +1188,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 8,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1156,7 +1198,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1165,8 +1207,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1176,7 +1218,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1186,7 +1228,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1195,8 +1237,8 @@
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1206,7 +1248,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1216,7 +1258,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1225,8 +1267,8 @@
       "patient_status": "Dementia senilis.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1236,7 +1278,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1245,8 +1287,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1256,7 +1298,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1265,8 +1307,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1275,8 +1317,8 @@
       "patient_status": "Idiotia et insania ex imbecillitate.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1285,8 +1327,8 @@
       "patient_status": "Insania ex constitutione.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1295,8 +1337,8 @@
       "patient_status": "Insania manico-melancholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1305,8 +1347,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1315,8 +1357,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1325,8 +1367,8 @@
       "patient_status": "Dementia præcox, Schizophrenia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1335,8 +1377,8 @@
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1345,8 +1387,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1355,8 +1397,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1365,8 +1407,8 @@
       "patient_status": "Dementia senilis.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1375,8 +1417,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1385,8 +1427,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1395,8 +1437,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1405,8 +1447,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1416,7 +1458,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1426,7 +1468,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1435,8 +1477,8 @@
       "patient_status": "Insania manico-melancholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1445,8 +1487,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1455,8 +1497,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1466,7 +1508,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1475,8 +1517,8 @@
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1485,8 +1527,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1495,8 +1537,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1505,8 +1547,8 @@
       "patient_status": "Dementia senilis.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1515,8 +1557,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1525,8 +1567,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1535,8 +1577,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1545,8 +1587,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1555,8 +1597,8 @@
       "patient_status": "Idiotia et insania ex imbecillitate.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1565,8 +1607,8 @@
       "patient_status": "Insania ex constitutione.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1575,8 +1617,8 @@
       "patient_status": "Insania manico-melancholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1585,8 +1627,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1595,8 +1637,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1605,8 +1647,8 @@
       "patient_status": "Dementia præcox, Schizophrenia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1615,8 +1657,8 @@
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1625,8 +1667,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1635,8 +1677,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1645,8 +1687,8 @@
       "patient_status": "Dementia senilis.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1655,8 +1697,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1665,8 +1707,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1675,8 +1717,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1685,8 +1727,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1696,7 +1738,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1706,7 +1748,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1716,7 +1758,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1725,8 +1767,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1735,8 +1777,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1746,7 +1788,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 68,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1755,8 +1797,8 @@
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1766,7 +1808,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1776,7 +1818,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1786,7 +1828,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 9,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1796,7 +1838,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 19,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1806,7 +1848,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1815,8 +1857,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1825,8 +1867,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1836,7 +1878,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1846,7 +1888,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 17,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1856,7 +1898,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1865,8 +1907,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1875,8 +1917,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1886,7 +1928,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 57,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1895,8 +1937,8 @@
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1906,7 +1948,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1916,7 +1958,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1926,7 +1968,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 11,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1936,7 +1978,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 7,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1945,8 +1987,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1956,7 +1998,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1965,8 +2007,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1976,7 +2018,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1985,8 +2027,8 @@
       "patient_status": "Insania ex constitutione.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1996,7 +2038,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2005,8 +2047,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2015,8 +2057,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2026,7 +2068,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 9,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2035,8 +2077,8 @@
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2045,8 +2087,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2055,8 +2097,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2066,7 +2108,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2076,7 +2118,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2085,8 +2127,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2095,8 +2137,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2105,8 +2147,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2116,7 +2158,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2125,8 +2167,8 @@
       "patient_status": "Insania ex constitutione.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2136,7 +2178,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 13,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2145,8 +2187,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2155,8 +2197,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2166,7 +2208,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2175,8 +2217,8 @@
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2185,8 +2227,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2196,7 +2238,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2205,8 +2247,8 @@
       "patient_status": "Dementia senilis.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2215,8 +2257,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2225,8 +2267,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2236,7 +2278,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2245,8 +2287,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2256,7 +2298,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2266,7 +2308,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2276,7 +2318,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2285,8 +2327,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2296,7 +2338,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2306,7 +2348,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 25,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2315,8 +2357,8 @@
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2326,7 +2368,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2335,8 +2377,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2346,7 +2388,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2355,8 +2397,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2366,7 +2408,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2375,8 +2417,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2385,8 +2427,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2396,7 +2438,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2406,7 +2448,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 7,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2416,7 +2458,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2425,8 +2467,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2436,7 +2478,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2446,7 +2488,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 25,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2455,8 +2497,8 @@
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2465,8 +2507,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2475,8 +2517,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2486,7 +2528,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2496,7 +2538,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2505,8 +2547,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2515,8 +2557,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2525,8 +2567,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2536,7 +2578,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2546,7 +2588,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2556,7 +2598,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 9,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2565,8 +2607,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2576,7 +2618,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2586,7 +2628,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 16,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2595,8 +2637,8 @@
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2606,7 +2648,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2615,8 +2657,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2626,7 +2668,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2636,7 +2678,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2645,8 +2687,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2655,8 +2697,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2666,7 +2708,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2676,7 +2718,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2686,7 +2728,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2696,7 +2738,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 8,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2705,8 +2747,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2716,7 +2758,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2726,7 +2768,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 13,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2735,8 +2777,8 @@
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2745,8 +2787,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2755,8 +2797,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2766,7 +2808,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2775,8 +2817,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2786,7 +2828,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2795,8 +2837,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2805,8 +2847,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2816,7 +2858,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2826,7 +2868,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2836,7 +2878,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2845,8 +2887,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2855,8 +2897,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2866,7 +2908,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 9,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2875,8 +2917,8 @@
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2885,8 +2927,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2896,7 +2938,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2906,7 +2948,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2915,8 +2957,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2925,8 +2967,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2936,7 +2978,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2945,8 +2987,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2956,7 +2998,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2966,7 +3008,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2976,7 +3018,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2985,8 +3027,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2995,8 +3037,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3006,7 +3048,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 8,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3015,8 +3057,8 @@
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3025,8 +3067,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3035,8 +3077,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3046,7 +3088,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3056,7 +3098,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3065,8 +3107,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3075,8 +3117,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3085,8 +3127,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3096,7 +3138,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3106,7 +3148,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 8,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3116,7 +3158,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3125,8 +3167,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3136,7 +3178,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3146,7 +3188,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 60,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3156,7 +3198,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3166,7 +3208,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3176,7 +3218,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3186,7 +3228,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3196,7 +3238,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3205,8 +3247,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3216,7 +3258,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3225,8 +3267,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3236,7 +3278,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3246,7 +3288,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 8,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3256,7 +3298,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3265,8 +3307,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3276,7 +3318,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3286,7 +3328,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 45,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3296,7 +3338,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3305,8 +3347,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3315,8 +3357,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3326,7 +3368,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3336,7 +3378,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3346,7 +3388,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3356,7 +3398,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3365,8 +3407,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3376,7 +3418,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3386,7 +3428,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3396,7 +3438,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 10,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3405,8 +3447,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3415,8 +3457,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3426,7 +3468,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 20,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3435,8 +3477,8 @@
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3445,8 +3487,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3455,8 +3497,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3465,8 +3507,8 @@
       "patient_status": "Dementia senilis.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3476,7 +3518,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3486,7 +3528,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3495,8 +3537,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3505,8 +3547,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3516,7 +3558,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3526,7 +3568,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3536,7 +3578,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3545,8 +3587,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3556,7 +3598,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3566,7 +3608,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 13,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3575,8 +3617,8 @@
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3585,8 +3627,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3595,8 +3637,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3606,7 +3648,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3615,8 +3657,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3625,8 +3667,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3635,8 +3677,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3645,8 +3687,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3655,8 +3697,8 @@
       "patient_status": "Idiotia et insania ex imbecillitate.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3665,8 +3707,8 @@
       "patient_status": "Insania ex constitutione.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3675,8 +3717,8 @@
       "patient_status": "Insania manico-melancholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3685,8 +3727,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3695,8 +3737,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3705,8 +3747,8 @@
       "patient_status": "Dementia præcox, Schizophrenia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3715,8 +3757,8 @@
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3725,8 +3767,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3735,8 +3777,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3745,8 +3787,8 @@
       "patient_status": "Dementia senilis.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3755,8 +3797,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3765,8 +3807,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3775,8 +3817,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3785,8 +3827,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3795,8 +3837,8 @@
       "patient_status": "Idiotia et insania ex imbecillitate.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3805,8 +3847,8 @@
       "patient_status": "Insania ex constitutione.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3815,8 +3857,8 @@
       "patient_status": "Insania manico-melancholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3825,8 +3867,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3836,7 +3878,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3846,7 +3888,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3855,8 +3897,8 @@
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3865,8 +3907,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3875,8 +3917,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3885,8 +3927,8 @@
       "patient_status": "Dementia senilis.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3895,8 +3937,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3905,8 +3947,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3915,8 +3957,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3925,8 +3967,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3936,7 +3978,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3946,7 +3988,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3956,7 +3998,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 15,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3965,8 +4007,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3976,7 +4018,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3986,7 +4028,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 37,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3996,7 +4038,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4005,8 +4047,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4016,7 +4058,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4026,7 +4068,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4036,7 +4078,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 7,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4046,7 +4088,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4055,8 +4097,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4065,8 +4107,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4076,7 +4118,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4086,7 +4128,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4096,7 +4138,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 13,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4106,7 +4148,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4116,7 +4158,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4126,7 +4168,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 28,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4136,7 +4178,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4145,8 +4187,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4156,7 +4198,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4165,8 +4207,8 @@
       "patient_status": "Dementia senilis.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4176,7 +4218,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4186,7 +4228,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4195,8 +4237,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4205,8 +4247,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4216,7 +4258,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 9,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4225,8 +4267,8 @@
       "patient_status": "Insania ex constitutione.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4236,7 +4278,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 18,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4245,8 +4287,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4256,7 +4298,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 10,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4266,7 +4308,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 24,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4276,7 +4318,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4285,8 +4327,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4296,7 +4338,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4306,7 +4348,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4315,8 +4357,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4326,7 +4368,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4335,8 +4377,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4346,7 +4388,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4356,7 +4398,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4366,7 +4408,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4376,7 +4418,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 20,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4385,8 +4427,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4396,7 +4438,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 8,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4406,7 +4448,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 16,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4415,8 +4457,8 @@
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4425,8 +4467,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4435,8 +4477,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4446,7 +4488,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4456,7 +4498,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4465,8 +4507,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4475,8 +4517,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4485,8 +4527,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4496,7 +4538,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4506,7 +4548,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4516,7 +4558,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 10,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4525,8 +4567,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4536,7 +4578,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 8,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4546,7 +4588,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 35,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4556,7 +4598,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4566,7 +4608,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4576,7 +4618,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4586,7 +4628,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4596,7 +4638,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 8,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4606,7 +4648,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4616,7 +4658,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4626,7 +4668,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4636,7 +4678,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4646,7 +4688,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4656,7 +4698,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 26,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4665,8 +4707,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4676,7 +4718,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 15,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4686,7 +4728,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 23,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4696,7 +4738,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4705,8 +4747,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4716,7 +4758,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4726,7 +4768,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4736,7 +4778,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4746,7 +4788,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4755,8 +4797,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4765,8 +4807,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4775,8 +4817,8 @@
       "patient_status": "Idiotia et insania ex imbecillitate.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4785,8 +4827,8 @@
       "patient_status": "Insania ex constitutione.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4795,8 +4837,8 @@
       "patient_status": "Insania manico-melancholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4805,8 +4847,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4815,8 +4857,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4826,7 +4868,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4835,8 +4877,8 @@
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4845,8 +4887,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4855,8 +4897,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4866,7 +4908,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -4875,8 +4917,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4885,8 +4927,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4895,8 +4937,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4905,8 +4947,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4915,8 +4957,8 @@
       "patient_status": "Idiotia et insania ex imbecillitate.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4925,8 +4967,8 @@
       "patient_status": "Insania ex constitutione.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4935,8 +4977,8 @@
       "patient_status": "Insania manico-melancholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4945,8 +4987,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4955,8 +4997,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4965,8 +5007,8 @@
       "patient_status": "Dementia præcox, Schizophrenia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4975,8 +5017,8 @@
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4985,8 +5027,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -4995,8 +5037,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5006,7 +5048,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5015,8 +5057,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5025,8 +5067,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5035,8 +5077,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5045,8 +5087,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5056,7 +5098,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5066,7 +5108,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5076,7 +5118,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 8,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5085,8 +5127,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5096,7 +5138,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5106,7 +5148,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 23,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5116,7 +5158,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5125,8 +5167,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5136,7 +5178,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5146,7 +5188,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5156,7 +5198,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5165,8 +5207,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5175,8 +5217,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5186,7 +5228,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5196,7 +5238,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5206,7 +5248,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5216,7 +5258,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 9,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5225,8 +5267,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5236,7 +5278,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5246,7 +5288,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 22,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5256,7 +5298,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5265,8 +5307,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5276,7 +5318,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5285,8 +5327,8 @@
       "patient_status": "Dementia senilis.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5295,8 +5337,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5305,8 +5347,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5316,7 +5358,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5325,8 +5367,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5336,7 +5378,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5346,7 +5388,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5356,7 +5398,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 14,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5365,8 +5407,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5375,8 +5417,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5386,7 +5428,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 16,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5396,7 +5438,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5405,8 +5447,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5416,7 +5458,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5426,7 +5468,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5436,7 +5478,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5446,7 +5488,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5455,8 +5497,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5466,7 +5508,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5476,7 +5518,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5486,7 +5528,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5496,7 +5538,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 22,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5505,8 +5547,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5516,7 +5558,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5526,7 +5568,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 12,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5535,8 +5577,8 @@
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5545,8 +5587,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5555,8 +5597,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5566,7 +5608,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5575,8 +5617,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5586,7 +5628,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5596,7 +5638,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5606,7 +5648,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5615,8 +5657,8 @@
       "patient_status": "Idiotia et insania ex imbecillitate.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5625,8 +5667,8 @@
       "patient_status": "Insania ex constitutione.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5635,8 +5677,8 @@
       "patient_status": "Insania manico-melancholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5645,8 +5687,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5655,8 +5697,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5665,8 +5707,8 @@
       "patient_status": "Dementia præcox, Schizophrenia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5675,8 +5717,8 @@
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5685,8 +5727,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5695,8 +5737,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5705,8 +5747,8 @@
       "patient_status": "Dementia senilis.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5715,8 +5757,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5725,8 +5767,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5735,8 +5777,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5745,8 +5787,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5755,8 +5797,8 @@
       "patient_status": "Idiotia et insania ex imbecillitate.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5765,8 +5807,8 @@
       "patient_status": "Insania ex constitutione.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5776,7 +5818,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5785,8 +5827,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5796,7 +5838,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5806,7 +5848,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5815,8 +5857,8 @@
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5825,8 +5867,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5835,8 +5877,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5846,7 +5888,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 7,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5856,7 +5898,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5865,8 +5907,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5875,8 +5917,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5885,8 +5927,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5896,7 +5938,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5905,8 +5947,8 @@
       "patient_status": "Insania ex constitutione.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5916,7 +5958,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 7,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5925,8 +5967,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5936,7 +5978,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5946,7 +5988,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 13,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5955,8 +5997,8 @@
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5966,7 +6008,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5975,8 +6017,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -5986,7 +6028,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -5996,7 +6038,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -6006,7 +6048,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -6015,8 +6057,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6025,8 +6067,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6036,7 +6078,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -6045,8 +6087,8 @@
       "patient_status": "Insania ex constitutione.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6056,7 +6098,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 17,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -6065,8 +6107,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6076,7 +6118,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -6086,7 +6128,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 7,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -6095,8 +6137,8 @@
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6106,7 +6148,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -6115,8 +6157,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6126,7 +6168,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -6136,7 +6178,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -6146,7 +6188,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -6155,8 +6197,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6165,8 +6207,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6175,8 +6217,8 @@
       "patient_status": "Idiotia et insania ex imbecillitate.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6186,7 +6228,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -6195,8 +6237,8 @@
       "patient_status": "Insania manico-melancholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6205,8 +6247,8 @@
       "patient_status": "Paranoia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6215,8 +6257,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6226,7 +6268,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -6235,8 +6277,8 @@
       "patient_status": "Amentia.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6245,8 +6287,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6255,8 +6297,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6265,8 +6307,8 @@
       "patient_status": "Dementia senilis.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6275,8 +6317,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6285,8 +6327,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6295,8 +6337,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6305,8 +6347,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6315,8 +6357,8 @@
       "patient_status": "Idiotia et insania ex imbecillitate.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6325,8 +6367,8 @@
       "patient_status": "Insania ex constitutione.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6335,8 +6377,8 @@
       "patient_status": "Insania manico-melancholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6345,8 +6387,8 @@
       "patient_status": "Paranoia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6355,8 +6397,8 @@
       "patient_status": "Insania paranoides.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6366,7 +6408,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -6375,8 +6417,8 @@
       "patient_status": "Amentia.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6385,8 +6427,8 @@
       "patient_status": "Insania alcoholica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6395,8 +6437,8 @@
       "patient_status": "Insania epileptica.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6406,7 +6448,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -6415,8 +6457,8 @@
       "patient_status": "Insania syfilogenes.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6425,8 +6467,8 @@
       "patient_status": "Insania ex vitio cerebri.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6435,8 +6477,8 @@
       "patient_status": "Insaniae aliae vel generis incerti.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -6445,8 +6487,8 @@
       "patient_status": "Til observasjon.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     }
   ]
