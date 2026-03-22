@@ -4,9 +4,39 @@
     "year": "1889"
   },
   "dimensions": {
-    "institutions": ["Gaustad", "Christiania", "Oslo", "Christianssand", "Eg", "Stavanger", "Bergen", "Rosenbergs", "Møllendal", "Trondhjem", "Rotvold"],
-    "diagnoses": ["Melancholia", "Melancholia - cum. stup.", "Mania", "Monomania", "Delirium tremens", "Dementia", "Idiotismus - acquisitus", "Idiotismus - congenitus", "Epilepsia", "Paralysis generalis", "Hypochondria", "Hysteria", "Vitia organica cerebri", "Til Observation"],
-    "sex": ["Md.", "Kv."]
+    "institutions": [
+      "Gaustad",
+      "Christiania",
+      "Oslo",
+      "Christianssand",
+      "Eg",
+      "Stavanger",
+      "Bergen",
+      "Rosenbergs",
+      "Møllendal",
+      "Trondhjem",
+      "Rotvold"
+    ],
+    "diagnoses": [
+      "Melancholia",
+      "Melancholia - cum. stup.",
+      "Mania",
+      "Monomania",
+      "Delirium tremens",
+      "Dementia",
+      "Idiotismus - acquisitus",
+      "Idiotismus - congenitus",
+      "Epilepsia",
+      "Paralysis generalis",
+      "Hypochondria",
+      "Hysteria",
+      "Vitia organica cerebri",
+      "Til Observation"
+    ],
+    "sex": [
+      "Md.",
+      "Kv."
+    ]
   },
   "data_skeleton": [
     {
@@ -16,7 +46,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 32,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -26,7 +56,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -36,7 +66,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 16,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -46,7 +76,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -55,8 +85,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -66,7 +96,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 33,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -75,8 +105,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -86,7 +116,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -96,7 +126,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -106,7 +136,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 7,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -116,7 +146,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -125,8 +155,8 @@
       "patient_status": "Hysteria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -135,8 +165,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -146,7 +176,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 8,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -156,7 +186,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 45,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -166,7 +196,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -176,7 +206,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 36,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -186,7 +216,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -195,8 +225,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -206,7 +236,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 17,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -215,8 +245,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -226,7 +256,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -236,7 +266,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -246,7 +276,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -255,8 +285,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -266,7 +296,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 7,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -275,8 +305,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -285,8 +315,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -296,7 +326,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 9,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -305,8 +335,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -316,7 +346,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -325,8 +355,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -335,8 +365,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -346,7 +376,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 12,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -356,7 +386,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -366,7 +396,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -376,7 +406,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -386,7 +416,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -395,8 +425,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -405,8 +435,8 @@
       "patient_status": "Hysteria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -415,8 +445,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -425,8 +455,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -436,7 +466,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 16,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -445,8 +475,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -456,7 +486,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -465,8 +495,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -475,8 +505,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -486,7 +516,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 9,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -495,8 +525,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -505,8 +535,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -515,8 +545,8 @@
       "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -525,8 +555,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -535,8 +565,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -545,8 +575,8 @@
       "patient_status": "Hysteria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -555,8 +585,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -565,8 +595,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -575,8 +605,8 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -585,8 +615,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -595,8 +625,8 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -605,8 +635,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -615,8 +645,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -625,8 +655,8 @@
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -635,8 +665,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -645,8 +675,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -655,8 +685,8 @@
       "patient_status": "Epilepsia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -665,8 +695,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -675,8 +705,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -685,8 +715,8 @@
       "patient_status": "Hysteria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -695,8 +725,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -705,8 +735,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -715,8 +745,8 @@
       "patient_status": "Melancholia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -725,8 +755,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -736,7 +766,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -745,8 +775,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -755,8 +785,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -766,7 +796,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -775,8 +805,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -785,8 +815,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -795,8 +825,8 @@
       "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -805,8 +835,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -815,8 +845,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -825,8 +855,8 @@
       "patient_status": "Hysteria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -835,8 +865,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -845,8 +875,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -855,8 +885,8 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -865,8 +895,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -875,8 +905,8 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -885,8 +915,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -895,8 +925,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -906,7 +936,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -915,8 +945,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -925,8 +955,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -935,8 +965,8 @@
       "patient_status": "Epilepsia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -945,8 +975,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -955,8 +985,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -965,8 +995,8 @@
       "patient_status": "Hysteria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -975,8 +1005,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -985,8 +1015,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -995,8 +1025,8 @@
       "patient_status": "Melancholia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1005,8 +1035,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1015,8 +1045,8 @@
       "patient_status": "Mania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1025,8 +1055,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1035,8 +1065,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1046,7 +1076,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1055,8 +1085,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1065,8 +1095,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1075,8 +1105,8 @@
       "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1085,8 +1115,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1095,8 +1125,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1105,8 +1135,8 @@
       "patient_status": "Hysteria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1115,8 +1145,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1125,8 +1155,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1136,7 +1166,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 17,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1146,7 +1176,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1156,7 +1186,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 12,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1166,7 +1196,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 8,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1176,7 +1206,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1186,7 +1216,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 14,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1195,8 +1225,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1206,7 +1236,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1216,7 +1246,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1226,7 +1256,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1236,7 +1266,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1245,8 +1275,8 @@
       "patient_status": "Hysteria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1255,8 +1285,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1266,7 +1296,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1276,7 +1306,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 19,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1286,7 +1316,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1296,7 +1326,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 19,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1306,7 +1336,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 12,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1315,8 +1345,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1326,7 +1356,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 13,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1335,8 +1365,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1345,8 +1375,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1356,7 +1386,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1365,8 +1395,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1375,8 +1405,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1386,7 +1416,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1395,8 +1425,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1406,7 +1436,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1415,8 +1445,8 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1425,8 +1455,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1435,8 +1465,8 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1445,8 +1475,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1455,8 +1485,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1465,8 +1495,8 @@
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1475,8 +1505,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1485,8 +1515,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1495,8 +1525,8 @@
       "patient_status": "Epilepsia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1505,8 +1535,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1515,8 +1545,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1525,8 +1555,8 @@
       "patient_status": "Hysteria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1535,8 +1565,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1545,8 +1575,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1555,8 +1585,8 @@
       "patient_status": "Melancholia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1565,8 +1595,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1575,8 +1605,8 @@
       "patient_status": "Mania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1585,8 +1615,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1595,8 +1625,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1605,8 +1635,8 @@
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1615,8 +1645,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1625,8 +1655,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1635,8 +1665,8 @@
       "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1645,8 +1675,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1655,8 +1685,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1665,8 +1695,8 @@
       "patient_status": "Hysteria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1675,8 +1705,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1685,8 +1715,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1695,8 +1725,8 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1705,8 +1735,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1716,7 +1746,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1725,8 +1755,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1735,8 +1765,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1746,7 +1776,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1755,8 +1785,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1765,8 +1795,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1775,8 +1805,8 @@
       "patient_status": "Epilepsia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1785,8 +1815,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1795,8 +1825,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1805,8 +1835,8 @@
       "patient_status": "Hysteria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1815,8 +1845,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1825,8 +1855,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1836,7 +1866,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1845,8 +1875,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1856,7 +1886,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1865,8 +1895,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1875,8 +1905,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1886,7 +1916,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1895,8 +1925,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1905,8 +1935,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1915,8 +1945,8 @@
       "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1925,8 +1955,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1935,8 +1965,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1945,8 +1975,8 @@
       "patient_status": "Hysteria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1955,8 +1985,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1965,8 +1995,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1976,7 +2006,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 10,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -1985,8 +2015,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -1996,7 +2026,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 18,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2005,8 +2035,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2015,8 +2045,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2026,7 +2056,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 20,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2035,8 +2065,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2045,8 +2075,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2056,7 +2086,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2065,8 +2095,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2075,8 +2105,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2085,8 +2115,8 @@
       "patient_status": "Hysteria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2095,8 +2125,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2106,7 +2136,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2116,7 +2146,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2126,7 +2156,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2136,7 +2166,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2145,8 +2175,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2155,8 +2185,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2166,7 +2196,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2175,8 +2205,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2185,8 +2215,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2195,8 +2225,8 @@
       "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2205,8 +2235,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2215,8 +2245,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2225,8 +2255,8 @@
       "patient_status": "Hysteria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2235,8 +2265,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2245,8 +2275,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2256,7 +2286,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2265,8 +2295,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2276,7 +2306,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 8,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2285,8 +2315,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2295,8 +2325,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2306,7 +2336,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2315,8 +2345,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2326,7 +2356,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2335,8 +2365,8 @@
       "patient_status": "Epilepsia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2345,8 +2375,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2355,8 +2385,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2365,8 +2395,8 @@
       "patient_status": "Hysteria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2375,8 +2405,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2385,8 +2415,8 @@
       "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2396,7 +2426,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2405,8 +2435,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2416,7 +2446,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 9,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2425,8 +2455,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2435,8 +2465,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2446,7 +2476,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2455,8 +2485,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2465,8 +2495,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2475,8 +2505,8 @@
       "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2485,8 +2515,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2495,8 +2525,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2505,8 +2535,8 @@
       "patient_status": "Hysteria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2515,8 +2545,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2525,8 +2555,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2536,7 +2566,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2545,8 +2575,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2556,7 +2586,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2565,8 +2595,8 @@
       "patient_status": "Monomania",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2575,8 +2605,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2586,7 +2616,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 7,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2595,8 +2625,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2605,8 +2635,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2616,7 +2646,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 4,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2625,8 +2655,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2635,8 +2665,8 @@
       "patient_status": "Hypochondria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2645,8 +2675,8 @@
       "patient_status": "Hysteria",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2655,8 +2685,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2666,7 +2696,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2676,7 +2706,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2685,8 +2715,8 @@
       "patient_status": "Melancholia - cum. stup.",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2696,7 +2726,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2705,8 +2735,8 @@
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2715,8 +2745,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2726,7 +2756,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2735,8 +2765,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2745,8 +2775,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2755,8 +2785,8 @@
       "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2765,8 +2795,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2775,8 +2805,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2785,8 +2815,8 @@
       "patient_status": "Hysteria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2795,8 +2825,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2805,8 +2835,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2816,7 +2846,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 29,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2826,7 +2856,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 5,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2836,7 +2866,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 31,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2846,7 +2876,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 12,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2856,7 +2886,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2866,7 +2896,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 16,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2875,8 +2905,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2886,7 +2916,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2895,8 +2925,8 @@
       "patient_status": "Epilepsia",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2905,8 +2935,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2916,7 +2946,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2926,7 +2956,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 1,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2935,8 +2965,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Md.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -2946,7 +2976,7 @@
       "sex": "Md.",
       "cell_data": {
         "value": 3,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2956,7 +2986,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 29,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2966,7 +2996,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2976,7 +3006,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 32,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2986,7 +3016,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 6,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -2995,8 +3025,8 @@
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3006,7 +3036,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 8,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3015,8 +3045,8 @@
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3025,8 +3055,8 @@
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3035,8 +3065,8 @@
       "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3045,8 +3075,8 @@
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3055,8 +3085,8 @@
       "patient_status": "Hypochondria",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3066,7 +3096,7 @@
       "sex": "Kv.",
       "cell_data": {
         "value": 2,
-        "footnote_marker": null
+        "footnote_marker": {}
       }
     },
     {
@@ -3075,8 +3105,8 @@
       "patient_status": "Vitia organica cerebri",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     },
     {
@@ -3085,8 +3115,8 @@
       "patient_status": "Til Observation",
       "sex": "Kv.",
       "cell_data": {
-        "value": null,
-        "footnote_marker": null
+        "value": "NA",
+        "footnote_marker": {}
       }
     }
   ]

@@ -43,7 +43,7 @@
       "patient_status": "Melancholia",
       "sex": "Md.",
       "cell_data": {
-        "value": 36,
+        "value": 38,
         "footnote_marker": {}
       }
     },
@@ -63,7 +63,7 @@
       "patient_status": "Mania",
       "sex": "Md.",
       "cell_data": {
-        "value": 34,
+        "value": 40,
         "footnote_marker": {}
       }
     },
@@ -93,7 +93,7 @@
       "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
-        "value": 35,
+        "value": 31,
         "footnote_marker": {}
       }
     },
@@ -123,7 +123,7 @@
       "patient_status": "Epilepsia",
       "sex": "Md.",
       "cell_data": {
-        "value": 3,
+        "value": 4,
         "footnote_marker": {}
       }
     },
@@ -132,53 +132,1593 @@
       "category": "Indkomne i 1873",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1873",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 43,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1873",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 38,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1873",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1873",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1873",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 24,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1873",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1873",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Gaustad",
+      "category": "Indkomne i 1873",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 6,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 14,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiania",
+      "category": "Indkomne i 1873",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Oslo",
+      "category": "Indkomne i 1873",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Kristiansand",
+      "category": "Indkomne i 1873",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Stavanger",
+      "category": "Indkomne i 1873",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 7,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 5,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Bergen",
+      "category": "Indkomne i 1873",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 11,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 8,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rosenbergs",
+      "category": "Indkomne i 1873",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1873",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1873",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1873",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1873",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1873",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1873",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1873",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
       "cell_data": {
         "value": 10,
         "footnote_marker": {}
       }
     },
     {
-      "institution": "Gaustad",
+      "institution": "Møllendal",
       "category": "Indkomne i 1873",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1873",
+      "patient_status": "Mania",
+      "sex": "Kv.",
       "cell_data": {
         "value": 2,
         "footnote_marker": {}
       }
     },
     {
-      "institution": "Gaustad",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 42,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Gaustad",
-      "category": "Indkomne i 1873",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 36,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Gaustad",
+      "institution": "Møllendal",
       "category": "Indkomne i 1873",
       "patient_status": "Monomania",
       "sex": "Kv.",
@@ -188,7 +1728,7 @@
       }
     },
     {
-      "institution": "Gaustad",
+      "institution": "Møllendal",
       "category": "Indkomne i 1873",
       "patient_status": "Delirium tremens",
       "sex": "Kv.",
@@ -198,17 +1738,17 @@
       }
     },
     {
-      "institution": "Gaustad",
+      "institution": "Møllendal",
       "category": "Indkomne i 1873",
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 16,
+        "value": 4,
         "footnote_marker": {}
       }
     },
     {
-      "institution": "Gaustad",
+      "institution": "Møllendal",
       "category": "Indkomne i 1873",
       "patient_status": "Idiotismus - congenitus",
       "sex": "Kv.",
@@ -218,9 +1758,19 @@
       }
     },
     {
-      "institution": "Gaustad",
+      "institution": "Møllendal",
       "category": "Indkomne i 1873",
       "patient_status": "Idiotismus - acquisitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Møllendal",
+      "category": "Indkomne i 1873",
+      "patient_status": "Epilepsia",
       "sex": "Kv.",
       "cell_data": {
         "value": "NA",
@@ -228,17 +1778,7 @@
       }
     },
     {
-      "institution": "Gaustad",
-      "category": "Indkomne i 1873",
-      "patient_status": "Epilepsia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Gaustad",
+      "institution": "Møllendal",
       "category": "Indkomne i 1873",
       "patient_status": "Paralysis generalis",
       "sex": "Kv.",
@@ -248,7 +1788,7 @@
       }
     },
     {
-      "institution": "Gaustad",
+      "institution": "Møllendal",
       "category": "Indkomne i 1873",
       "patient_status": "Til Observation",
       "sex": "Kv.",
@@ -258,9 +1798,279 @@
       }
     },
     {
-      "institution": "Kristiania",
+      "institution": "Trondhjem",
       "category": "Indkomne i 1873",
       "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Dementia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Epilepsia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Paralysis generalis",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Til Observation",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 9,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Mania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Monomania",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Delirium tremens",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Dementia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - congenitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Idiotismus - acquisitus",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 1,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Epilepsia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Paralysis generalis",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Trondhjem",
+      "category": "Indkomne i 1873",
+      "patient_status": "Til Observation",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 32,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 3,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1873",
+      "patient_status": "Mania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 18,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1873",
+      "patient_status": "Monomania",
+      "sex": "Md.",
+      "cell_data": {
+        "value": 4,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1873",
+      "patient_status": "Delirium tremens",
+      "sex": "Md.",
+      "cell_data": {
+        "value": "NA",
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1873",
+      "patient_status": "Dementia",
       "sex": "Md.",
       "cell_data": {
         "value": 14,
@@ -268,57 +2078,7 @@
       }
     },
     {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1873",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1873",
-      "patient_status": "Monomania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1873",
-      "patient_status": "Delirium tremens",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1873",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 6,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiania",
+      "institution": "Rotvold",
       "category": "Indkomne i 1873",
       "patient_status": "Idiotismus - congenitus",
       "sex": "Md.",
@@ -328,7 +2088,7 @@
       }
     },
     {
-      "institution": "Kristiania",
+      "institution": "Rotvold",
       "category": "Indkomne i 1873",
       "patient_status": "Idiotismus - acquisitus",
       "sex": "Md.",
@@ -338,1699 +2098,29 @@
       }
     },
     {
-      "institution": "Kristiania",
+      "institution": "Rotvold",
       "category": "Indkomne i 1873",
       "patient_status": "Epilepsia",
       "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1873",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1873",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 14,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1873",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 5,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1873",
-      "patient_status": "Monomania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1873",
-      "patient_status": "Delirium tremens",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1873",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 7,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1873",
-      "patient_status": "Epilepsia",
-      "sex": "Kv.",
       "cell_data": {
         "value": 2,
         "footnote_marker": {}
       }
     },
     {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1873",
-      "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiania",
-      "category": "Indkomne i 1873",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Monomania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Delirium tremens",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Epilepsia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
+      "institution": "Rotvold",
       "category": "Indkomne i 1873",
       "patient_status": "Paralysis generalis",
       "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Mania",
-      "sex": "Kv.",
       "cell_data": {
         "value": 3,
         "footnote_marker": {}
       }
     },
     {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Monomania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Delirium tremens",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Epilepsia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Oslo",
-      "category": "Indkomne i 1873",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Monomania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 5,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Delirium tremens",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Epilepsia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Monomania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Delirium tremens",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 5,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Epilepsia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Kristiansand",
-      "category": "Indkomne i 1873",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Monomania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Delirium tremens",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Epilepsia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Monomania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Delirium tremens",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Epilepsia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Stavanger",
-      "category": "Indkomne i 1873",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 5,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 7,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Monomania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Delirium tremens",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 5,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Epilepsia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 5,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Monomania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Delirium tremens",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 6,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Epilepsia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Bergen",
-      "category": "Indkomne i 1873",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 5,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 7,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Monomania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Delirium tremens",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Epilepsia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Monomania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Delirium tremens",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Epilepsia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rosenbergs",
-      "category": "Indkomne i 1873",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Monomania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Delirium tremens",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Epilepsia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 6,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Monomania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Delirium tremens",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Epilepsia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Møllendal",
-      "category": "Indkomne i 1873",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Monomania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Delirium tremens",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Dementia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Epilepsia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 6,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Monomania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Delirium tremens",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Dementia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 3,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Epilepsia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Paralysis generalis",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Trondhjem",
-      "category": "Indkomne i 1873",
-      "patient_status": "Til Observation",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
       "institution": "Rotvold",
       "category": "Indkomne i 1873",
-      "patient_status": "Melancholia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 29,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "patient_status": "Til Observation",
       "sex": "Md.",
       "cell_data": {
         "value": 1,
@@ -2040,38 +2130,28 @@
     {
       "institution": "Rotvold",
       "category": "Indkomne i 1873",
+      "patient_status": "Melancholia",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 22,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1873",
+      "patient_status": "Melancholia - cum stupore (Stupiditas)",
+      "sex": "Kv.",
+      "cell_data": {
+        "value": 2,
+        "footnote_marker": {}
+      }
+    },
+    {
+      "institution": "Rotvold",
+      "category": "Indkomne i 1873",
       "patient_status": "Mania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 16,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1873",
-      "patient_status": "Monomania",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 4,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1873",
-      "patient_status": "Delirium tremens",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1873",
-      "patient_status": "Dementia",
-      "sex": "Md.",
+      "sex": "Kv.",
       "cell_data": {
         "value": 11,
         "footnote_marker": {}
@@ -2080,86 +2160,6 @@
     {
       "institution": "Rotvold",
       "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - congenitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1873",
-      "patient_status": "Idiotismus - acquisitus",
-      "sex": "Md.",
-      "cell_data": {
-        "value": "NA",
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1873",
-      "patient_status": "Epilepsia",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1873",
-      "patient_status": "Paralysis generalis",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1873",
-      "patient_status": "Til Observation",
-      "sex": "Md.",
-      "cell_data": {
-        "value": 2,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 37,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1873",
-      "patient_status": "Melancholia - cum stupore (Stupiditas)",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 1,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1873",
-      "patient_status": "Mania",
-      "sex": "Kv.",
-      "cell_data": {
-        "value": 14,
-        "footnote_marker": {}
-      }
-    },
-    {
-      "institution": "Rotvold",
-      "category": "Indkomne i 1873",
       "patient_status": "Monomania",
       "sex": "Kv.",
       "cell_data": {
@@ -2183,7 +2183,7 @@
       "patient_status": "Dementia",
       "sex": "Kv.",
       "cell_data": {
-        "value": 6,
+        "value": 9,
         "footnote_marker": {}
       }
     },
